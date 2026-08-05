@@ -56,4 +56,4 @@
 
 ## Автор
 
-Ахмедхан Темирбулатов — [Ссылка на резюме]https://makhachkala.hh.ru/resume/bc77eb3cff0c53dd730039ed1f47334b535966?hhtmFrom=resume_view_history
+Ахмедхан Темирбулатов — [Ссылка на резюме](https://makhachkala.hh.ru/resume/bc77eb3cff0c53dd730039ed1f47334b535966?hhtmFrom=resume_view_history)
