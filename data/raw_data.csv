@@ -1,0 +1,1782 @@
+Date,Year,Month,YearMonth,BusinessUnit,StatementType,LineItem,Category,Amount
+2023-01-01,2023,1,202301,Corporate,CF,Financing CF,Debt Repayment,-9000.0
+2023-01-01,2023,1,202301,Corporate,P&L,Other,Depreciation & Amortization,18496.3
+2023-01-01,2023,1,202301,Corporate,P&L,Other,Income Tax Expense,6897.95
+2023-01-01,2023,1,202301,Corporate,P&L,Other,Interest Expense,5321.63
+2023-01-01,2023,1,202301,E-commerce,CF,Investing CF,Capital Expenditures,-10156.54
+2023-01-01,2023,1,202301,E-commerce,CF,Operating CF,Change in Accounts Payable,1296.7
+2023-01-01,2023,1,202301,E-commerce,CF,Operating CF,Change in Accounts Receivable,-1947.25
+2023-01-01,2023,1,202301,E-commerce,CF,Operating CF,Change in Inventory,-1272.68
+2023-01-01,2023,1,202301,E-commerce,P&L,COGS,Direct Labor,13711.49
+2023-01-01,2023,1,202301,E-commerce,P&L,COGS,Materials,23566.63
+2023-01-01,2023,1,202301,E-commerce,P&L,COGS,Shipping & Logistics,5570.29
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,IT & Software,1060.89
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,Marketing,4330.28
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,Professional Fees,605.05
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,R&D,2877.81
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,Rent & Utilities,1836.18
+2023-01-01,2023,1,202301,E-commerce,P&L,Opex,Salaries & Benefits,12726.42
+2023-01-01,2023,1,202301,E-commerce,P&L,Revenue,Product Sales,74740.27
+2023-01-01,2023,1,202301,E-commerce,P&L,Revenue,Service Revenue,8304.47
+2023-01-01,2023,1,202301,Retail,CF,Investing CF,Capital Expenditures,-9343.57
+2023-01-01,2023,1,202301,Retail,CF,Operating CF,Change in Accounts Payable,3993.44
+2023-01-01,2023,1,202301,Retail,CF,Operating CF,Change in Accounts Receivable,-5901.43
+2023-01-01,2023,1,202301,Retail,CF,Operating CF,Change in Inventory,-2565.44
+2023-01-01,2023,1,202301,Retail,P&L,COGS,Direct Labor,31783.34
+2023-01-01,2023,1,202301,Retail,P&L,COGS,Materials,54627.62
+2023-01-01,2023,1,202301,Retail,P&L,COGS,Shipping & Logistics,12911.98
+2023-01-01,2023,1,202301,Retail,P&L,Opex,IT & Software,2501.11
+2023-01-01,2023,1,202301,Retail,P&L,Opex,Marketing,5652.14
+2023-01-01,2023,1,202301,Retail,P&L,Opex,Professional Fees,1661.02
+2023-01-01,2023,1,202301,Retail,P&L,Opex,R&D,2636.78
+2023-01-01,2023,1,202301,Retail,P&L,Opex,Rent & Utilities,3591.57
+2023-01-01,2023,1,202301,Retail,P&L,Opex,Salaries & Benefits,26351.41
+2023-01-01,2023,1,202301,Retail,P&L,Revenue,Product Sales,128790.99
+2023-01-01,2023,1,202301,Retail,P&L,Revenue,Service Revenue,42930.33
+2023-01-01,2023,1,202301,Wholesale,CF,Investing CF,Capital Expenditures,-7692.58
+2023-01-01,2023,1,202301,Wholesale,CF,Operating CF,Change in Accounts Payable,2585.12
+2023-01-01,2023,1,202301,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5823.07
+2023-01-01,2023,1,202301,Wholesale,CF,Operating CF,Change in Inventory,-995.64
+2023-01-01,2023,1,202301,Wholesale,P&L,COGS,Direct Labor,27964.93
+2023-01-01,2023,1,202301,Wholesale,P&L,COGS,Materials,48064.72
+2023-01-01,2023,1,202301,Wholesale,P&L,COGS,Shipping & Logistics,11360.75
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,IT & Software,1393.83
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,Marketing,4798.6
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,Professional Fees,1107.56
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,R&D,2442.01
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,Rent & Utilities,2761.36
+2023-01-01,2023,1,202301,Wholesale,P&L,Opex,Salaries & Benefits,19643.57
+2023-01-01,2023,1,202301,Wholesale,P&L,Revenue,Product Sales,97902.29
+2023-01-01,2023,1,202301,Wholesale,P&L,Revenue,Service Revenue,32634.1
+2023-02-01,2023,2,202302,Corporate,CF,Financing CF,Debt Repayment,-8910.0
+2023-02-01,2023,2,202302,Corporate,P&L,Other,Depreciation & Amortization,18228.24
+2023-02-01,2023,2,202302,Corporate,P&L,Other,Income Tax Expense,8136.42
+2023-02-01,2023,2,202302,Corporate,P&L,Other,Interest Expense,5167.42
+2023-02-01,2023,2,202302,E-commerce,CF,Investing CF,Capital Expenditures,-6904.44
+2023-02-01,2023,2,202302,E-commerce,CF,Operating CF,Change in Accounts Payable,2568.95
+2023-02-01,2023,2,202302,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3982.56
+2023-02-01,2023,2,202302,E-commerce,CF,Operating CF,Change in Inventory,-1522.09
+2023-02-01,2023,2,202302,E-commerce,P&L,COGS,Direct Labor,13815.43
+2023-02-01,2023,2,202302,E-commerce,P&L,COGS,Materials,23745.26
+2023-02-01,2023,2,202302,E-commerce,P&L,COGS,Shipping & Logistics,5612.52
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,IT & Software,1041.52
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,Marketing,4122.59
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,Professional Fees,870.36
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,R&D,3429.62
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,Rent & Utilities,1790.44
+2023-02-01,2023,2,202302,E-commerce,P&L,Opex,Salaries & Benefits,13231.9
+2023-02-01,2023,2,202302,E-commerce,P&L,Revenue,Product Sales,74389.91
+2023-02-01,2023,2,202302,E-commerce,P&L,Revenue,Service Revenue,8265.55
+2023-02-01,2023,2,202302,Retail,CF,Investing CF,Capital Expenditures,-7199.25
+2023-02-01,2023,2,202302,Retail,CF,Operating CF,Change in Accounts Payable,3128.74
+2023-02-01,2023,2,202302,Retail,CF,Operating CF,Change in Accounts Receivable,-9663.4
+2023-02-01,2023,2,202302,Retail,CF,Operating CF,Change in Inventory,-2864.93
+2023-02-01,2023,2,202302,Retail,P&L,COGS,Direct Labor,29952.46
+2023-02-01,2023,2,202302,Retail,P&L,COGS,Materials,51480.79
+2023-02-01,2023,2,202302,Retail,P&L,COGS,Shipping & Logistics,12168.19
+2023-02-01,2023,2,202302,Retail,P&L,Opex,IT & Software,1975.65
+2023-02-01,2023,2,202302,Retail,P&L,Opex,Marketing,3731.58
+2023-02-01,2023,2,202302,Retail,P&L,Opex,Professional Fees,1033.26
+2023-02-01,2023,2,202302,Retail,P&L,Opex,R&D,2441.09
+2023-02-01,2023,2,202302,Retail,P&L,Opex,Rent & Utilities,3611.31
+2023-02-01,2023,2,202302,Retail,P&L,Opex,Salaries & Benefits,24923.56
+2023-02-01,2023,2,202302,Retail,P&L,Revenue,Product Sales,125852.16
+2023-02-01,2023,2,202302,Retail,P&L,Revenue,Service Revenue,41950.72
+2023-02-01,2023,2,202302,Wholesale,CF,Investing CF,Capital Expenditures,-6273.06
+2023-02-01,2023,2,202302,Wholesale,CF,Operating CF,Change in Accounts Payable,2860.87
+2023-02-01,2023,2,202302,Wholesale,CF,Operating CF,Change in Accounts Receivable,-3500.41
+2023-02-01,2023,2,202302,Wholesale,CF,Operating CF,Change in Inventory,-2096.58
+2023-02-01,2023,2,202302,Wholesale,P&L,COGS,Direct Labor,26594.04
+2023-02-01,2023,2,202302,Wholesale,P&L,COGS,Materials,45708.51
+2023-02-01,2023,2,202302,Wholesale,P&L,COGS,Shipping & Logistics,10803.83
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,IT & Software,1676.15
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,Marketing,3932.62
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,Professional Fees,1333.95
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,R&D,2000.06
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,Rent & Utilities,2770.34
+2023-02-01,2023,2,202302,Wholesale,P&L,Opex,Salaries & Benefits,19123.54
+2023-02-01,2023,2,202302,Wholesale,P&L,Revenue,Product Sales,93190.93
+2023-02-01,2023,2,202302,Wholesale,P&L,Revenue,Service Revenue,31063.64
+2023-03-01,2023,3,202303,Corporate,CF,Financing CF,Debt Repayment,-8820.9
+2023-03-01,2023,3,202303,Corporate,CF,Financing CF,Dividends Paid,-8742.62
+2023-03-01,2023,3,202303,Corporate,P&L,Other,Depreciation & Amortization,18013.12
+2023-03-01,2023,3,202303,Corporate,P&L,Other,Income Tax Expense,10108.07
+2023-03-01,2023,3,202303,Corporate,P&L,Other,Interest Expense,5092.55
+2023-03-01,2023,3,202303,E-commerce,CF,Investing CF,Capital Expenditures,-7091.1
+2023-03-01,2023,3,202303,E-commerce,CF,Operating CF,Change in Accounts Payable,1966.45
+2023-03-01,2023,3,202303,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3578.23
+2023-03-01,2023,3,202303,E-commerce,CF,Operating CF,Change in Inventory,-2045.3
+2023-03-01,2023,3,202303,E-commerce,P&L,COGS,Direct Labor,16018.61
+2023-03-01,2023,3,202303,E-commerce,P&L,COGS,Materials,27531.98
+2023-03-01,2023,3,202303,E-commerce,P&L,COGS,Shipping & Logistics,6507.56
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,IT & Software,1263.93
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,Marketing,5288.4
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,Professional Fees,813.41
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,R&D,3072.25
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,Rent & Utilities,1821.05
+2023-03-01,2023,3,202303,E-commerce,P&L,Opex,Salaries & Benefits,13152.43
+2023-03-01,2023,3,202303,E-commerce,P&L,Revenue,Product Sales,84759.64
+2023-03-01,2023,3,202303,E-commerce,P&L,Revenue,Service Revenue,9417.74
+2023-03-01,2023,3,202303,Retail,CF,Investing CF,Capital Expenditures,-8126.31
+2023-03-01,2023,3,202303,Retail,CF,Operating CF,Change in Accounts Payable,2446.63
+2023-03-01,2023,3,202303,Retail,CF,Operating CF,Change in Accounts Receivable,-7138.63
+2023-03-01,2023,3,202303,Retail,CF,Operating CF,Change in Inventory,-3895.95
+2023-03-01,2023,3,202303,Retail,P&L,COGS,Direct Labor,33331.71
+2023-03-01,2023,3,202303,Retail,P&L,COGS,Materials,57288.88
+2023-03-01,2023,3,202303,Retail,P&L,COGS,Shipping & Logistics,13541.01
+2023-03-01,2023,3,202303,Retail,P&L,Opex,IT & Software,2054.46
+2023-03-01,2023,3,202303,Retail,P&L,Opex,Marketing,4447.63
+2023-03-01,2023,3,202303,Retail,P&L,Opex,Professional Fees,1973.46
+2023-03-01,2023,3,202303,Retail,P&L,Opex,R&D,2568.37
+2023-03-01,2023,3,202303,Retail,P&L,Opex,Rent & Utilities,3589.5
+2023-03-01,2023,3,202303,Retail,P&L,Opex,Salaries & Benefits,25790.75
+2023-03-01,2023,3,202303,Retail,P&L,Revenue,Product Sales,134393.57
+2023-03-01,2023,3,202303,Retail,P&L,Revenue,Service Revenue,44797.86
+2023-03-01,2023,3,202303,Wholesale,CF,Investing CF,Capital Expenditures,-9718.84
+2023-03-01,2023,3,202303,Wholesale,CF,Operating CF,Change in Accounts Payable,2626.88
+2023-03-01,2023,3,202303,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5437.15
+2023-03-01,2023,3,202303,Wholesale,CF,Operating CF,Change in Inventory,-3230.14
+2023-03-01,2023,3,202303,Wholesale,P&L,COGS,Direct Labor,29094.19
+2023-03-01,2023,3,202303,Wholesale,P&L,COGS,Materials,50005.64
+2023-03-01,2023,3,202303,Wholesale,P&L,COGS,Shipping & Logistics,11819.51
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,IT & Software,1574.97
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,Marketing,3869.61
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,Professional Fees,1167.93
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,R&D,2532.73
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,Rent & Utilities,2800.99
+2023-03-01,2023,3,202303,Wholesale,P&L,Opex,Salaries & Benefits,19047.12
+2023-03-01,2023,3,202303,Wholesale,P&L,Revenue,Product Sales,105501.83
+2023-03-01,2023,3,202303,Wholesale,P&L,Revenue,Service Revenue,35167.28
+2023-04-01,2023,4,202304,Corporate,CF,Financing CF,Debt Repayment,-8732.69
+2023-04-01,2023,4,202304,Corporate,P&L,Other,Depreciation & Amortization,17672.93
+2023-04-01,2023,4,202304,Corporate,P&L,Other,Income Tax Expense,12195.92
+2023-04-01,2023,4,202304,Corporate,P&L,Other,Interest Expense,5247.0
+2023-04-01,2023,4,202304,E-commerce,CF,Investing CF,Capital Expenditures,-9090.88
+2023-04-01,2023,4,202304,E-commerce,CF,Operating CF,Change in Accounts Payable,3191.38
+2023-04-01,2023,4,202304,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4620.29
+2023-04-01,2023,4,202304,E-commerce,CF,Operating CF,Change in Inventory,-1359.42
+2023-04-01,2023,4,202304,E-commerce,P&L,COGS,Direct Labor,15975.59
+2023-04-01,2023,4,202304,E-commerce,P&L,COGS,Materials,27458.04
+2023-04-01,2023,4,202304,E-commerce,P&L,COGS,Shipping & Logistics,6490.08
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,IT & Software,972.88
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,Marketing,4859.28
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,Professional Fees,827.46
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,R&D,2868.79
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,Rent & Utilities,1800.84
+2023-04-01,2023,4,202304,E-commerce,P&L,Opex,Salaries & Benefits,13640.48
+2023-04-01,2023,4,202304,E-commerce,P&L,Revenue,Product Sales,87091.56
+2023-04-01,2023,4,202304,E-commerce,P&L,Revenue,Service Revenue,9676.84
+2023-04-01,2023,4,202304,Retail,CF,Investing CF,Capital Expenditures,-13671.84
+2023-04-01,2023,4,202304,Retail,CF,Operating CF,Change in Accounts Payable,2949.52
+2023-04-01,2023,4,202304,Retail,CF,Operating CF,Change in Accounts Receivable,-4186.59
+2023-04-01,2023,4,202304,Retail,CF,Operating CF,Change in Inventory,-2710.04
+2023-04-01,2023,4,202304,Retail,P&L,COGS,Direct Labor,33542.34
+2023-04-01,2023,4,202304,Retail,P&L,COGS,Materials,57650.89
+2023-04-01,2023,4,202304,Retail,P&L,COGS,Shipping & Logistics,13626.57
+2023-04-01,2023,4,202304,Retail,P&L,Opex,IT & Software,2173.68
+2023-04-01,2023,4,202304,Retail,P&L,Opex,Marketing,4518.66
+2023-04-01,2023,4,202304,Retail,P&L,Opex,Professional Fees,1353.28
+2023-04-01,2023,4,202304,Retail,P&L,Opex,R&D,2951.89
+2023-04-01,2023,4,202304,Retail,P&L,Opex,Rent & Utilities,3606.17
+2023-04-01,2023,4,202304,Retail,P&L,Opex,Salaries & Benefits,25807.85
+2023-04-01,2023,4,202304,Retail,P&L,Revenue,Product Sales,141071.94
+2023-04-01,2023,4,202304,Retail,P&L,Revenue,Service Revenue,47023.98
+2023-04-01,2023,4,202304,Wholesale,CF,Investing CF,Capital Expenditures,-10443.94
+2023-04-01,2023,4,202304,Wholesale,CF,Operating CF,Change in Accounts Payable,3110.01
+2023-04-01,2023,4,202304,Wholesale,CF,Operating CF,Change in Accounts Receivable,-6672.79
+2023-04-01,2023,4,202304,Wholesale,CF,Operating CF,Change in Inventory,-5354.59
+2023-04-01,2023,4,202304,Wholesale,P&L,COGS,Direct Labor,29691.04
+2023-04-01,2023,4,202304,Wholesale,P&L,COGS,Materials,51031.47
+2023-04-01,2023,4,202304,Wholesale,P&L,COGS,Shipping & Logistics,12061.98
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,IT & Software,1979.92
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,Marketing,4090.58
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,Professional Fees,1064.22
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,R&D,1803.28
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,Rent & Utilities,2838.27
+2023-04-01,2023,4,202304,Wholesale,P&L,Opex,Salaries & Benefits,18466.3
+2023-04-01,2023,4,202304,Wholesale,P&L,Revenue,Product Sales,106665.31
+2023-04-01,2023,4,202304,Wholesale,P&L,Revenue,Service Revenue,35555.1
+2023-05-01,2023,5,202305,Corporate,CF,Financing CF,Debt Repayment,-8645.36
+2023-05-01,2023,5,202305,Corporate,P&L,Other,Depreciation & Amortization,18810.43
+2023-05-01,2023,5,202305,Corporate,P&L,Other,Income Tax Expense,12019.19
+2023-05-01,2023,5,202305,Corporate,P&L,Other,Interest Expense,5310.34
+2023-05-01,2023,5,202305,E-commerce,CF,Investing CF,Capital Expenditures,-7641.83
+2023-05-01,2023,5,202305,E-commerce,CF,Operating CF,Change in Accounts Payable,1366.57
+2023-05-01,2023,5,202305,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5221.43
+2023-05-01,2023,5,202305,E-commerce,CF,Operating CF,Change in Inventory,-1652.23
+2023-05-01,2023,5,202305,E-commerce,P&L,COGS,Direct Labor,16947.74
+2023-05-01,2023,5,202305,E-commerce,P&L,COGS,Materials,29128.93
+2023-05-01,2023,5,202305,E-commerce,P&L,COGS,Shipping & Logistics,6885.02
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,IT & Software,1090.79
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,Marketing,4866.15
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,Professional Fees,747.95
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,R&D,3027.92
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,Rent & Utilities,1803.36
+2023-05-01,2023,5,202305,E-commerce,P&L,Opex,Salaries & Benefits,13432.06
+2023-05-01,2023,5,202305,E-commerce,P&L,Revenue,Product Sales,88860.99
+2023-05-01,2023,5,202305,E-commerce,P&L,Revenue,Service Revenue,9873.44
+2023-05-01,2023,5,202305,Retail,CF,Investing CF,Capital Expenditures,-13756.71
+2023-05-01,2023,5,202305,Retail,CF,Operating CF,Change in Accounts Payable,3481.02
+2023-05-01,2023,5,202305,Retail,CF,Operating CF,Change in Accounts Receivable,-5741.87
+2023-05-01,2023,5,202305,Retail,CF,Operating CF,Change in Inventory,-3540.48
+2023-05-01,2023,5,202305,Retail,P&L,COGS,Direct Labor,34351.33
+2023-05-01,2023,5,202305,Retail,P&L,COGS,Materials,59041.35
+2023-05-01,2023,5,202305,Retail,P&L,COGS,Shipping & Logistics,13955.23
+2023-05-01,2023,5,202305,Retail,P&L,Opex,IT & Software,2440.4
+2023-05-01,2023,5,202305,Retail,P&L,Opex,Marketing,6035.2
+2023-05-01,2023,5,202305,Retail,P&L,Opex,Professional Fees,1708.21
+2023-05-01,2023,5,202305,Retail,P&L,Opex,R&D,2578.19
+2023-05-01,2023,5,202305,Retail,P&L,Opex,Rent & Utilities,3622.02
+2023-05-01,2023,5,202305,Retail,P&L,Opex,Salaries & Benefits,25512.09
+2023-05-01,2023,5,202305,Retail,P&L,Revenue,Product Sales,143885.47
+2023-05-01,2023,5,202305,Retail,P&L,Revenue,Service Revenue,47961.82
+2023-05-01,2023,5,202305,Wholesale,CF,Investing CF,Capital Expenditures,-11349.66
+2023-05-01,2023,5,202305,Wholesale,CF,Operating CF,Change in Accounts Payable,3691.27
+2023-05-01,2023,5,202305,Wholesale,CF,Operating CF,Change in Accounts Receivable,-8793.39
+2023-05-01,2023,5,202305,Wholesale,CF,Operating CF,Change in Inventory,-2827.97
+2023-05-01,2023,5,202305,Wholesale,P&L,COGS,Direct Labor,30237.38
+2023-05-01,2023,5,202305,Wholesale,P&L,COGS,Materials,51970.5
+2023-05-01,2023,5,202305,Wholesale,P&L,COGS,Shipping & Logistics,12283.94
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,IT & Software,1596.67
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,Marketing,3323.63
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,Professional Fees,877.73
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,R&D,1972.41
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,Rent & Utilities,2760.18
+2023-05-01,2023,5,202305,Wholesale,P&L,Opex,Salaries & Benefits,20037.05
+2023-05-01,2023,5,202305,Wholesale,P&L,Revenue,Product Sales,109469.1
+2023-05-01,2023,5,202305,Wholesale,P&L,Revenue,Service Revenue,36489.7
+2023-06-01,2023,6,202306,Corporate,CF,Financing CF,Debt Repayment,-8558.91
+2023-06-01,2023,6,202306,Corporate,CF,Financing CF,Dividends Paid,-10010.29
+2023-06-01,2023,6,202306,Corporate,P&L,Other,Depreciation & Amortization,18719.88
+2023-06-01,2023,6,202306,Corporate,P&L,Other,Income Tax Expense,11591.79
+2023-06-01,2023,6,202306,Corporate,P&L,Other,Interest Expense,5492.31
+2023-06-01,2023,6,202306,E-commerce,CF,Investing CF,Capital Expenditures,-8172.18
+2023-06-01,2023,6,202306,E-commerce,CF,Operating CF,Change in Accounts Payable,687.1
+2023-06-01,2023,6,202306,E-commerce,CF,Operating CF,Change in Accounts Receivable,-2283.59
+2023-06-01,2023,6,202306,E-commerce,CF,Operating CF,Change in Inventory,-1728.18
+2023-06-01,2023,6,202306,E-commerce,P&L,COGS,Direct Labor,16284.28
+2023-06-01,2023,6,202306,E-commerce,P&L,COGS,Materials,27988.6
+2023-06-01,2023,6,202306,E-commerce,P&L,COGS,Shipping & Logistics,6615.49
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,IT & Software,1093.47
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,Marketing,4623.74
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,Professional Fees,990.89
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,R&D,3347.49
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,Rent & Utilities,1798.82
+2023-06-01,2023,6,202306,E-commerce,P&L,Opex,Salaries & Benefits,13659.89
+2023-06-01,2023,6,202306,E-commerce,P&L,Revenue,Product Sales,90843.45
+2023-06-01,2023,6,202306,E-commerce,P&L,Revenue,Service Revenue,10093.72
+2023-06-01,2023,6,202306,Retail,CF,Investing CF,Capital Expenditures,-14485.18
+2023-06-01,2023,6,202306,Retail,CF,Operating CF,Change in Accounts Payable,2977.9
+2023-06-01,2023,6,202306,Retail,CF,Operating CF,Change in Accounts Receivable,-8186.3
+2023-06-01,2023,6,202306,Retail,CF,Operating CF,Change in Inventory,-3547.59
+2023-06-01,2023,6,202306,Retail,P&L,COGS,Direct Labor,34139.55
+2023-06-01,2023,6,202306,Retail,P&L,COGS,Materials,58677.35
+2023-06-01,2023,6,202306,Retail,P&L,COGS,Shipping & Logistics,13869.19
+2023-06-01,2023,6,202306,Retail,P&L,Opex,IT & Software,2209.56
+2023-06-01,2023,6,202306,Retail,P&L,Opex,Marketing,4619.65
+2023-06-01,2023,6,202306,Retail,P&L,Opex,Professional Fees,1729.02
+2023-06-01,2023,6,202306,Retail,P&L,Opex,R&D,3008.02
+2023-06-01,2023,6,202306,Retail,P&L,Opex,Rent & Utilities,3648.82
+2023-06-01,2023,6,202306,Retail,P&L,Opex,Salaries & Benefits,25033.34
+2023-06-01,2023,6,202306,Retail,P&L,Revenue,Product Sales,138470.31
+2023-06-01,2023,6,202306,Retail,P&L,Revenue,Service Revenue,46156.77
+2023-06-01,2023,6,202306,Wholesale,CF,Investing CF,Capital Expenditures,-9651.9
+2023-06-01,2023,6,202306,Wholesale,CF,Operating CF,Change in Accounts Payable,4548.15
+2023-06-01,2023,6,202306,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7390.36
+2023-06-01,2023,6,202306,Wholesale,CF,Operating CF,Change in Inventory,-1633.03
+2023-06-01,2023,6,202306,Wholesale,P&L,COGS,Direct Labor,30010.45
+2023-06-01,2023,6,202306,Wholesale,P&L,COGS,Materials,51580.46
+2023-06-01,2023,6,202306,Wholesale,P&L,COGS,Shipping & Logistics,12191.75
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,IT & Software,1563.8
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,Marketing,5328.56
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,Professional Fees,810.25
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,R&D,1920.12
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,Rent & Utilities,2794.67
+2023-06-01,2023,6,202306,Wholesale,P&L,Opex,Salaries & Benefits,20318.42
+2023-06-01,2023,6,202306,Wholesale,P&L,Revenue,Product Sales,108439.15
+2023-06-01,2023,6,202306,Wholesale,P&L,Revenue,Service Revenue,36146.38
+2023-07-01,2023,7,202307,Corporate,CF,Financing CF,Debt Repayment,-8473.32
+2023-07-01,2023,7,202307,Corporate,P&L,Other,Depreciation & Amortization,18332.13
+2023-07-01,2023,7,202307,Corporate,P&L,Other,Income Tax Expense,8723.32
+2023-07-01,2023,7,202307,Corporate,P&L,Other,Interest Expense,4750.52
+2023-07-01,2023,7,202307,E-commerce,CF,Investing CF,Capital Expenditures,-7206.76
+2023-07-01,2023,7,202307,E-commerce,CF,Operating CF,Change in Accounts Payable,1262.02
+2023-07-01,2023,7,202307,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5776.85
+2023-07-01,2023,7,202307,E-commerce,CF,Operating CF,Change in Inventory,-797.43
+2023-07-01,2023,7,202307,E-commerce,P&L,COGS,Direct Labor,15683.59
+2023-07-01,2023,7,202307,E-commerce,P&L,COGS,Materials,26956.18
+2023-07-01,2023,7,202307,E-commerce,P&L,COGS,Shipping & Logistics,6371.46
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,IT & Software,1250.29
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,Marketing,4816.72
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,Professional Fees,705.72
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,R&D,2559.13
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,Rent & Utilities,1815.7
+2023-07-01,2023,7,202307,E-commerce,P&L,Opex,Salaries & Benefits,13464.37
+2023-07-01,2023,7,202307,E-commerce,P&L,Revenue,Product Sales,83642.17
+2023-07-01,2023,7,202307,E-commerce,P&L,Revenue,Service Revenue,9293.57
+2023-07-01,2023,7,202307,Retail,CF,Investing CF,Capital Expenditures,-9823.05
+2023-07-01,2023,7,202307,Retail,CF,Operating CF,Change in Accounts Payable,4044.36
+2023-07-01,2023,7,202307,Retail,CF,Operating CF,Change in Accounts Receivable,-6824.52
+2023-07-01,2023,7,202307,Retail,CF,Operating CF,Change in Inventory,-4730.73
+2023-07-01,2023,7,202307,Retail,P&L,COGS,Direct Labor,34960.64
+2023-07-01,2023,7,202307,Retail,P&L,COGS,Materials,60088.61
+2023-07-01,2023,7,202307,Retail,P&L,COGS,Shipping & Logistics,14202.76
+2023-07-01,2023,7,202307,Retail,P&L,Opex,IT & Software,2259.48
+2023-07-01,2023,7,202307,Retail,P&L,Opex,Marketing,3326.26
+2023-07-01,2023,7,202307,Retail,P&L,Opex,Professional Fees,867.58
+2023-07-01,2023,7,202307,Retail,P&L,Opex,R&D,2823.03
+2023-07-01,2023,7,202307,Retail,P&L,Opex,Rent & Utilities,3589.24
+2023-07-01,2023,7,202307,Retail,P&L,Opex,Salaries & Benefits,26764.98
+2023-07-01,2023,7,202307,Retail,P&L,Revenue,Product Sales,136987.43
+2023-07-01,2023,7,202307,Retail,P&L,Revenue,Service Revenue,45662.48
+2023-07-01,2023,7,202307,Wholesale,CF,Investing CF,Capital Expenditures,-9515.94
+2023-07-01,2023,7,202307,Wholesale,CF,Operating CF,Change in Accounts Payable,2005.38
+2023-07-01,2023,7,202307,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5116.24
+2023-07-01,2023,7,202307,Wholesale,CF,Operating CF,Change in Inventory,-2234.08
+2023-07-01,2023,7,202307,Wholesale,P&L,COGS,Direct Labor,28816.25
+2023-07-01,2023,7,202307,Wholesale,P&L,COGS,Materials,49527.93
+2023-07-01,2023,7,202307,Wholesale,P&L,COGS,Shipping & Logistics,11706.6
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,IT & Software,1767.26
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,Marketing,3766.19
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,Professional Fees,1108.75
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,R&D,2161.34
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,Rent & Utilities,2776.73
+2023-07-01,2023,7,202307,Wholesale,P&L,Opex,Salaries & Benefits,19554.79
+2023-07-01,2023,7,202307,Wholesale,P&L,Revenue,Product Sales,103337.21
+2023-07-01,2023,7,202307,Wholesale,P&L,Revenue,Service Revenue,34445.74
+2023-08-01,2023,8,202308,Corporate,CF,Financing CF,Debt Repayment,-8388.59
+2023-08-01,2023,8,202308,Corporate,P&L,Other,Depreciation & Amortization,18213.11
+2023-08-01,2023,8,202308,Corporate,P&L,Other,Income Tax Expense,10135.56
+2023-08-01,2023,8,202308,Corporate,P&L,Other,Interest Expense,4879.76
+2023-08-01,2023,8,202308,E-commerce,CF,Investing CF,Capital Expenditures,-9616.91
+2023-08-01,2023,8,202308,E-commerce,CF,Operating CF,Change in Accounts Payable,2230.23
+2023-08-01,2023,8,202308,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4326.26
+2023-08-01,2023,8,202308,E-commerce,CF,Operating CF,Change in Inventory,-1800.17
+2023-08-01,2023,8,202308,E-commerce,P&L,COGS,Direct Labor,16398.75
+2023-08-01,2023,8,202308,E-commerce,P&L,COGS,Materials,28185.36
+2023-08-01,2023,8,202308,E-commerce,P&L,COGS,Shipping & Logistics,6661.99
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,IT & Software,1180.61
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,Marketing,4726.2
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,Professional Fees,880.89
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,R&D,2603.52
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,Rent & Utilities,1825.99
+2023-08-01,2023,8,202308,E-commerce,P&L,Opex,Salaries & Benefits,14034.57
+2023-08-01,2023,8,202308,E-commerce,P&L,Revenue,Product Sales,88265.62
+2023-08-01,2023,8,202308,E-commerce,P&L,Revenue,Service Revenue,9807.29
+2023-08-01,2023,8,202308,Retail,CF,Investing CF,Capital Expenditures,-7694.55
+2023-08-01,2023,8,202308,Retail,CF,Operating CF,Change in Accounts Payable,3269.81
+2023-08-01,2023,8,202308,Retail,CF,Operating CF,Change in Accounts Receivable,-5725.04
+2023-08-01,2023,8,202308,Retail,CF,Operating CF,Change in Inventory,-2755.81
+2023-08-01,2023,8,202308,Retail,P&L,COGS,Direct Labor,33314.07
+2023-08-01,2023,8,202308,Retail,P&L,COGS,Materials,57258.56
+2023-08-01,2023,8,202308,Retail,P&L,COGS,Shipping & Logistics,13533.84
+2023-08-01,2023,8,202308,Retail,P&L,Opex,IT & Software,2274.23
+2023-08-01,2023,8,202308,Retail,P&L,Opex,Marketing,6186.29
+2023-08-01,2023,8,202308,Retail,P&L,Opex,Professional Fees,1718.97
+2023-08-01,2023,8,202308,Retail,P&L,Opex,R&D,2666.31
+2023-08-01,2023,8,202308,Retail,P&L,Opex,Rent & Utilities,3618.48
+2023-08-01,2023,8,202308,Retail,P&L,Opex,Salaries & Benefits,26536.81
+2023-08-01,2023,8,202308,Retail,P&L,Revenue,Product Sales,135985.08
+2023-08-01,2023,8,202308,Retail,P&L,Revenue,Service Revenue,45328.36
+2023-08-01,2023,8,202308,Wholesale,CF,Investing CF,Capital Expenditures,-8763.65
+2023-08-01,2023,8,202308,Wholesale,CF,Operating CF,Change in Accounts Payable,1326.72
+2023-08-01,2023,8,202308,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4461.74
+2023-08-01,2023,8,202308,Wholesale,CF,Operating CF,Change in Inventory,-1437.19
+2023-08-01,2023,8,202308,Wholesale,P&L,COGS,Direct Labor,29956.83
+2023-08-01,2023,8,202308,Wholesale,P&L,COGS,Materials,51488.31
+2023-08-01,2023,8,202308,Wholesale,P&L,COGS,Shipping & Logistics,12169.96
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,IT & Software,1613.13
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,Marketing,4404.75
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,Professional Fees,1247.81
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,R&D,1799.0
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,Rent & Utilities,2815.21
+2023-08-01,2023,8,202308,Wholesale,P&L,Opex,Salaries & Benefits,20609.77
+2023-08-01,2023,8,202308,Wholesale,P&L,Revenue,Product Sales,108502.14
+2023-08-01,2023,8,202308,Wholesale,P&L,Revenue,Service Revenue,36167.38
+2023-09-01,2023,9,202309,Corporate,CF,Financing CF,Debt Issuance,150000.0
+2023-09-01,2023,9,202309,Corporate,CF,Financing CF,Debt Repayment,-8304.7
+2023-09-01,2023,9,202309,Corporate,CF,Financing CF,Dividends Paid,-10837.33
+2023-09-01,2023,9,202309,Corporate,P&L,Other,Depreciation & Amortization,18467.9
+2023-09-01,2023,9,202309,Corporate,P&L,Other,Income Tax Expense,11977.88
+2023-09-01,2023,9,202309,Corporate,P&L,Other,Interest Expense,5114.79
+2023-09-01,2023,9,202309,E-commerce,CF,Investing CF,Capital Expenditures,-8209.72
+2023-09-01,2023,9,202309,E-commerce,CF,Operating CF,Change in Accounts Payable,1205.5
+2023-09-01,2023,9,202309,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4173.24
+2023-09-01,2023,9,202309,E-commerce,CF,Operating CF,Change in Inventory,-1756.2
+2023-09-01,2023,9,202309,E-commerce,P&L,COGS,Direct Labor,18039.52
+2023-09-01,2023,9,202309,E-commerce,P&L,COGS,Materials,31005.43
+2023-09-01,2023,9,202309,E-commerce,P&L,COGS,Shipping & Logistics,7328.56
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,IT & Software,1125.41
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,Marketing,5435.82
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,Professional Fees,979.34
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,R&D,2990.56
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,Rent & Utilities,1825.92
+2023-09-01,2023,9,202309,E-commerce,P&L,Opex,Salaries & Benefits,14381.85
+2023-09-01,2023,9,202309,E-commerce,P&L,Revenue,Product Sales,95042.99
+2023-09-01,2023,9,202309,E-commerce,P&L,Revenue,Service Revenue,10560.33
+2023-09-01,2023,9,202309,Retail,CF,Investing CF,Capital Expenditures,-12184.03
+2023-09-01,2023,9,202309,Retail,CF,Operating CF,Change in Accounts Payable,4400.01
+2023-09-01,2023,9,202309,Retail,CF,Operating CF,Change in Accounts Receivable,-7468.88
+2023-09-01,2023,9,202309,Retail,CF,Operating CF,Change in Inventory,-5373.99
+2023-09-01,2023,9,202309,Retail,P&L,COGS,Direct Labor,36607.85
+2023-09-01,2023,9,202309,Retail,P&L,COGS,Materials,62919.74
+2023-09-01,2023,9,202309,Retail,P&L,COGS,Shipping & Logistics,14871.94
+2023-09-01,2023,9,202309,Retail,P&L,Opex,IT & Software,2188.23
+2023-09-01,2023,9,202309,Retail,P&L,Opex,Marketing,5891.0
+2023-09-01,2023,9,202309,Retail,P&L,Opex,Professional Fees,1208.94
+2023-09-01,2023,9,202309,Retail,P&L,Opex,R&D,2431.47
+2023-09-01,2023,9,202309,Retail,P&L,Opex,Rent & Utilities,3584.86
+2023-09-01,2023,9,202309,Retail,P&L,Opex,Salaries & Benefits,26249.27
+2023-09-01,2023,9,202309,Retail,P&L,Revenue,Product Sales,147162.08
+2023-09-01,2023,9,202309,Retail,P&L,Revenue,Service Revenue,49054.03
+2023-09-01,2023,9,202309,Wholesale,CF,Investing CF,Capital Expenditures,-7963.69
+2023-09-01,2023,9,202309,Wholesale,CF,Operating CF,Change in Accounts Payable,2654.6
+2023-09-01,2023,9,202309,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4452.43
+2023-09-01,2023,9,202309,Wholesale,CF,Operating CF,Change in Inventory,-3797.68
+2023-09-01,2023,9,202309,Wholesale,P&L,COGS,Direct Labor,31115.23
+2023-09-01,2023,9,202309,Wholesale,P&L,COGS,Materials,53479.29
+2023-09-01,2023,9,202309,Wholesale,P&L,COGS,Shipping & Logistics,12640.56
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,IT & Software,1621.46
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,Marketing,4932.35
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,Professional Fees,1130.62
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,R&D,2153.82
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,Rent & Utilities,2766.09
+2023-09-01,2023,9,202309,Wholesale,P&L,Opex,Salaries & Benefits,19227.37
+2023-09-01,2023,9,202309,Wholesale,P&L,Revenue,Product Sales,112529.66
+2023-09-01,2023,9,202309,Wholesale,P&L,Revenue,Service Revenue,37509.89
+2023-10-01,2023,10,202310,Corporate,CF,Financing CF,Debt Repayment,-9721.66
+2023-10-01,2023,10,202310,Corporate,P&L,Other,Depreciation & Amortization,18761.76
+2023-10-01,2023,10,202310,Corporate,P&L,Other,Income Tax Expense,12157.39
+2023-10-01,2023,10,202310,Corporate,P&L,Other,Interest Expense,5851.8
+2023-10-01,2023,10,202310,E-commerce,CF,Investing CF,Capital Expenditures,-9787.43
+2023-10-01,2023,10,202310,E-commerce,CF,Operating CF,Change in Accounts Payable,2476.22
+2023-10-01,2023,10,202310,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5427.22
+2023-10-01,2023,10,202310,E-commerce,CF,Operating CF,Change in Inventory,-1200.08
+2023-10-01,2023,10,202310,E-commerce,P&L,COGS,Direct Labor,18031.74
+2023-10-01,2023,10,202310,E-commerce,P&L,COGS,Materials,30992.05
+2023-10-01,2023,10,202310,E-commerce,P&L,COGS,Shipping & Logistics,7325.39
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,IT & Software,1030.09
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,Marketing,5122.42
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,Professional Fees,829.5
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,R&D,2921.49
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,Rent & Utilities,1756.37
+2023-10-01,2023,10,202310,E-commerce,P&L,Opex,Salaries & Benefits,13470.02
+2023-10-01,2023,10,202310,E-commerce,P&L,Revenue,Product Sales,98817.23
+2023-10-01,2023,10,202310,E-commerce,P&L,Revenue,Service Revenue,10979.69
+2023-10-01,2023,10,202310,Retail,CF,Investing CF,Capital Expenditures,-13873.35
+2023-10-01,2023,10,202310,Retail,CF,Operating CF,Change in Accounts Payable,2610.52
+2023-10-01,2023,10,202310,Retail,CF,Operating CF,Change in Accounts Receivable,-7956.1
+2023-10-01,2023,10,202310,Retail,CF,Operating CF,Change in Inventory,-4689.37
+2023-10-01,2023,10,202310,Retail,P&L,COGS,Direct Labor,37249.22
+2023-10-01,2023,10,202310,Retail,P&L,COGS,Materials,64022.1
+2023-10-01,2023,10,202310,Retail,P&L,COGS,Shipping & Logistics,15132.5
+2023-10-01,2023,10,202310,Retail,P&L,Opex,IT & Software,2235.63
+2023-10-01,2023,10,202310,Retail,P&L,Opex,Marketing,4294.38
+2023-10-01,2023,10,202310,Retail,P&L,Opex,Professional Fees,1526.85
+2023-10-01,2023,10,202310,Retail,P&L,Opex,R&D,2866.51
+2023-10-01,2023,10,202310,Retail,P&L,Opex,Rent & Utilities,3688.68
+2023-10-01,2023,10,202310,Retail,P&L,Opex,Salaries & Benefits,26572.77
+2023-10-01,2023,10,202310,Retail,P&L,Revenue,Product Sales,150746.62
+2023-10-01,2023,10,202310,Retail,P&L,Revenue,Service Revenue,50248.87
+2023-10-01,2023,10,202310,Wholesale,CF,Investing CF,Capital Expenditures,-9080.06
+2023-10-01,2023,10,202310,Wholesale,CF,Operating CF,Change in Accounts Payable,2557.91
+2023-10-01,2023,10,202310,Wholesale,CF,Operating CF,Change in Accounts Receivable,-6943.57
+2023-10-01,2023,10,202310,Wholesale,CF,Operating CF,Change in Inventory,-3101.36
+2023-10-01,2023,10,202310,Wholesale,P&L,COGS,Direct Labor,32243.59
+2023-10-01,2023,10,202310,Wholesale,P&L,COGS,Materials,55418.68
+2023-10-01,2023,10,202310,Wholesale,P&L,COGS,Shipping & Logistics,13098.96
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,IT & Software,1841.95
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,Marketing,5058.32
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,Professional Fees,1074.52
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,R&D,1638.79
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,Rent & Utilities,2777.69
+2023-10-01,2023,10,202310,Wholesale,P&L,Opex,Salaries & Benefits,21195.65
+2023-10-01,2023,10,202310,Wholesale,P&L,Revenue,Product Sales,117148.26
+2023-10-01,2023,10,202310,Wholesale,P&L,Revenue,Service Revenue,39049.42
+2023-11-01,2023,11,202311,Corporate,CF,Financing CF,Debt Repayment,-9624.44
+2023-11-01,2023,11,202311,Corporate,P&L,Other,Depreciation & Amortization,18024.68
+2023-11-01,2023,11,202311,Corporate,P&L,Other,Income Tax Expense,14053.84
+2023-11-01,2023,11,202311,Corporate,P&L,Other,Interest Expense,5733.06
+2023-11-01,2023,11,202311,E-commerce,CF,Investing CF,Capital Expenditures,-9662.31
+2023-11-01,2023,11,202311,E-commerce,CF,Operating CF,Change in Accounts Payable,1809.61
+2023-11-01,2023,11,202311,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4212.76
+2023-11-01,2023,11,202311,E-commerce,CF,Operating CF,Change in Inventory,-1212.58
+2023-11-01,2023,11,202311,E-commerce,P&L,COGS,Direct Labor,18490.19
+2023-11-01,2023,11,202311,E-commerce,P&L,COGS,Materials,31780.01
+2023-11-01,2023,11,202311,E-commerce,P&L,COGS,Shipping & Logistics,7511.64
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,IT & Software,1266.95
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,Marketing,6970.35
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,Professional Fees,425.99
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,R&D,3034.17
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,Rent & Utilities,1800.48
+2023-11-01,2023,11,202311,E-commerce,P&L,Opex,Salaries & Benefits,14860.49
+2023-11-01,2023,11,202311,E-commerce,P&L,Revenue,Product Sales,102378.87
+2023-11-01,2023,11,202311,E-commerce,P&L,Revenue,Service Revenue,11375.43
+2023-11-01,2023,11,202311,Retail,CF,Investing CF,Capital Expenditures,-13088.71
+2023-11-01,2023,11,202311,Retail,CF,Operating CF,Change in Accounts Payable,3653.82
+2023-11-01,2023,11,202311,Retail,CF,Operating CF,Change in Accounts Receivable,-8865.11
+2023-11-01,2023,11,202311,Retail,CF,Operating CF,Change in Inventory,-1966.08
+2023-11-01,2023,11,202311,Retail,P&L,COGS,Direct Labor,39213.65
+2023-11-01,2023,11,202311,Retail,P&L,COGS,Materials,67398.46
+2023-11-01,2023,11,202311,Retail,P&L,COGS,Shipping & Logistics,15930.54
+2023-11-01,2023,11,202311,Retail,P&L,Opex,IT & Software,2066.01
+2023-11-01,2023,11,202311,Retail,P&L,Opex,Marketing,7814.26
+2023-11-01,2023,11,202311,Retail,P&L,Opex,Professional Fees,1276.91
+2023-11-01,2023,11,202311,Retail,P&L,Opex,R&D,3034.66
+2023-11-01,2023,11,202311,Retail,P&L,Opex,Rent & Utilities,3678.86
+2023-11-01,2023,11,202311,Retail,P&L,Opex,Salaries & Benefits,25628.35
+2023-11-01,2023,11,202311,Retail,P&L,Revenue,Product Sales,161395.75
+2023-11-01,2023,11,202311,Retail,P&L,Revenue,Service Revenue,53798.58
+2023-11-01,2023,11,202311,Wholesale,CF,Investing CF,Capital Expenditures,-9304.22
+2023-11-01,2023,11,202311,Wholesale,CF,Operating CF,Change in Accounts Payable,5383.43
+2023-11-01,2023,11,202311,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7212.32
+2023-11-01,2023,11,202311,Wholesale,CF,Operating CF,Change in Inventory,-4164.02
+2023-11-01,2023,11,202311,Wholesale,P&L,COGS,Direct Labor,35213.6
+2023-11-01,2023,11,202311,Wholesale,P&L,COGS,Materials,60523.37
+2023-11-01,2023,11,202311,Wholesale,P&L,COGS,Shipping & Logistics,14305.52
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,IT & Software,1817.39
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,Marketing,5228.63
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,Professional Fees,1025.7
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,R&D,2078.96
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,Rent & Utilities,2787.89
+2023-11-01,2023,11,202311,Wholesale,P&L,Opex,Salaries & Benefits,20146.22
+2023-11-01,2023,11,202311,Wholesale,P&L,Revenue,Product Sales,124415.22
+2023-11-01,2023,11,202311,Wholesale,P&L,Revenue,Service Revenue,41471.74
+2023-12-01,2023,12,202312,Corporate,CF,Financing CF,Debt Repayment,-9528.19
+2023-12-01,2023,12,202312,Corporate,CF,Financing CF,Dividends Paid,-14032.98
+2023-12-01,2023,12,202312,Corporate,P&L,Other,Depreciation & Amortization,18937.8
+2023-12-01,2023,12,202312,Corporate,P&L,Other,Income Tax Expense,17043.98
+2023-12-01,2023,12,202312,Corporate,P&L,Other,Interest Expense,6154.48
+2023-12-01,2023,12,202312,E-commerce,CF,Investing CF,Capital Expenditures,-12780.76
+2023-12-01,2023,12,202312,E-commerce,CF,Operating CF,Change in Accounts Payable,2817.52
+2023-12-01,2023,12,202312,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6095.8
+2023-12-01,2023,12,202312,E-commerce,CF,Operating CF,Change in Inventory,-2525.47
+2023-12-01,2023,12,202312,E-commerce,P&L,COGS,Direct Labor,21235.43
+2023-12-01,2023,12,202312,E-commerce,P&L,COGS,Materials,36498.4
+2023-12-01,2023,12,202312,E-commerce,P&L,COGS,Shipping & Logistics,8626.89
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,IT & Software,1265.97
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,Marketing,5760.32
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,Professional Fees,626.84
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,R&D,3586.42
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,Rent & Utilities,1816.64
+2023-12-01,2023,12,202312,E-commerce,P&L,Opex,Salaries & Benefits,14934.3
+2023-12-01,2023,12,202312,E-commerce,P&L,Revenue,Product Sales,113401.65
+2023-12-01,2023,12,202312,E-commerce,P&L,Revenue,Service Revenue,12600.18
+2023-12-01,2023,12,202312,Retail,CF,Investing CF,Capital Expenditures,-13200.44
+2023-12-01,2023,12,202312,Retail,CF,Operating CF,Change in Accounts Payable,5907.49
+2023-12-01,2023,12,202312,Retail,CF,Operating CF,Change in Accounts Receivable,-9066.03
+2023-12-01,2023,12,202312,Retail,CF,Operating CF,Change in Inventory,-1929.55
+2023-12-01,2023,12,202312,Retail,P&L,COGS,Direct Labor,39752.22
+2023-12-01,2023,12,202312,Retail,P&L,COGS,Materials,68324.13
+2023-12-01,2023,12,202312,Retail,P&L,COGS,Shipping & Logistics,16149.34
+2023-12-01,2023,12,202312,Retail,P&L,Opex,IT & Software,2494.59
+2023-12-01,2023,12,202312,Retail,P&L,Opex,Marketing,5487.33
+2023-12-01,2023,12,202312,Retail,P&L,Opex,Professional Fees,1085.51
+2023-12-01,2023,12,202312,Retail,P&L,Opex,R&D,2657.78
+2023-12-01,2023,12,202312,Retail,P&L,Opex,Rent & Utilities,3588.41
+2023-12-01,2023,12,202312,Retail,P&L,Opex,Salaries & Benefits,28165.45
+2023-12-01,2023,12,202312,Retail,P&L,Revenue,Product Sales,159129.42
+2023-12-01,2023,12,202312,Retail,P&L,Revenue,Service Revenue,53043.14
+2023-12-01,2023,12,202312,Wholesale,CF,Investing CF,Capital Expenditures,-5782.12
+2023-12-01,2023,12,202312,Wholesale,CF,Operating CF,Change in Accounts Payable,3228.35
+2023-12-01,2023,12,202312,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7588.78
+2023-12-01,2023,12,202312,Wholesale,CF,Operating CF,Change in Inventory,-4237.26
+2023-12-01,2023,12,202312,Wholesale,P&L,COGS,Direct Labor,36192.09
+2023-12-01,2023,12,202312,Wholesale,P&L,COGS,Materials,62205.15
+2023-12-01,2023,12,202312,Wholesale,P&L,COGS,Shipping & Logistics,14703.04
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,IT & Software,1758.65
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,Marketing,3598.62
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,Professional Fees,1495.52
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,R&D,1783.77
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,Rent & Utilities,2790.16
+2023-12-01,2023,12,202312,Wholesale,P&L,Opex,Salaries & Benefits,19860.49
+2023-12-01,2023,12,202312,Wholesale,P&L,Revenue,Product Sales,129580.61
+2023-12-01,2023,12,202312,Wholesale,P&L,Revenue,Service Revenue,43193.54
+2024-01-01,2024,1,202401,Corporate,CF,Financing CF,Debt Repayment,-9432.91
+2024-01-01,2024,1,202401,Corporate,P&L,Other,Depreciation & Amortization,18539.32
+2024-01-01,2024,1,202401,Corporate,P&L,Other,Income Tax Expense,8759.21
+2024-01-01,2024,1,202401,Corporate,P&L,Other,Interest Expense,6081.6
+2024-01-01,2024,1,202401,E-commerce,CF,Investing CF,Capital Expenditures,-10066.88
+2024-01-01,2024,1,202401,E-commerce,CF,Operating CF,Change in Accounts Payable,1762.79
+2024-01-01,2024,1,202401,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3318.3
+2024-01-01,2024,1,202401,E-commerce,CF,Operating CF,Change in Inventory,-1438.33
+2024-01-01,2024,1,202401,E-commerce,P&L,COGS,Direct Labor,16973.39
+2024-01-01,2024,1,202401,E-commerce,P&L,COGS,Materials,29173.02
+2024-01-01,2024,1,202401,E-commerce,P&L,COGS,Shipping & Logistics,6895.44
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,IT & Software,1497.61
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,Marketing,6174.11
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,Professional Fees,748.5
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,R&D,3852.26
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,Rent & Utilities,1787.59
+2024-01-01,2024,1,202401,E-commerce,P&L,Opex,Salaries & Benefits,14975.9
+2024-01-01,2024,1,202401,E-commerce,P&L,Revenue,Product Sales,92796.57
+2024-01-01,2024,1,202401,E-commerce,P&L,Revenue,Service Revenue,10310.73
+2024-01-01,2024,1,202401,Retail,CF,Investing CF,Capital Expenditures,-9422.08
+2024-01-01,2024,1,202401,Retail,CF,Operating CF,Change in Accounts Payable,3919.51
+2024-01-01,2024,1,202401,Retail,CF,Operating CF,Change in Accounts Receivable,-5833.35
+2024-01-01,2024,1,202401,Retail,CF,Operating CF,Change in Inventory,-3522.36
+2024-01-01,2024,1,202401,Retail,P&L,COGS,Direct Labor,34535.46
+2024-01-01,2024,1,202401,Retail,P&L,COGS,Materials,59357.82
+2024-01-01,2024,1,202401,Retail,P&L,COGS,Shipping & Logistics,14030.03
+2024-01-01,2024,1,202401,Retail,P&L,Opex,IT & Software,2378.89
+2024-01-01,2024,1,202401,Retail,P&L,Opex,Marketing,4476.5
+2024-01-01,2024,1,202401,Retail,P&L,Opex,Professional Fees,1539.78
+2024-01-01,2024,1,202401,Retail,P&L,Opex,R&D,3052.36
+2024-01-01,2024,1,202401,Retail,P&L,Opex,Rent & Utilities,3610.69
+2024-01-01,2024,1,202401,Retail,P&L,Opex,Salaries & Benefits,26002.93
+2024-01-01,2024,1,202401,Retail,P&L,Revenue,Product Sales,137407.43
+2024-01-01,2024,1,202401,Retail,P&L,Revenue,Service Revenue,45802.48
+2024-01-01,2024,1,202401,Wholesale,CF,Investing CF,Capital Expenditures,-6924.13
+2024-01-01,2024,1,202401,Wholesale,CF,Operating CF,Change in Accounts Payable,2987.74
+2024-01-01,2024,1,202401,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5864.77
+2024-01-01,2024,1,202401,Wholesale,CF,Operating CF,Change in Inventory,-2410.09
+2024-01-01,2024,1,202401,Wholesale,P&L,COGS,Direct Labor,29816.59
+2024-01-01,2024,1,202401,Wholesale,P&L,COGS,Materials,51247.26
+2024-01-01,2024,1,202401,Wholesale,P&L,COGS,Shipping & Logistics,12112.99
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,IT & Software,1873.96
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,Marketing,3245.93
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,Professional Fees,1628.64
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,R&D,2277.62
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,Rent & Utilities,2788.37
+2024-01-01,2024,1,202401,Wholesale,P&L,Opex,Salaries & Benefits,21267.3
+2024-01-01,2024,1,202401,Wholesale,P&L,Revenue,Product Sales,104275.12
+2024-01-01,2024,1,202401,Wholesale,P&L,Revenue,Service Revenue,34758.37
+2024-02-01,2024,2,202402,Corporate,CF,Financing CF,Debt Repayment,-9338.58
+2024-02-01,2024,2,202402,Corporate,P&L,Other,Depreciation & Amortization,18525.52
+2024-02-01,2024,2,202402,Corporate,P&L,Other,Income Tax Expense,9489.17
+2024-02-01,2024,2,202402,Corporate,P&L,Other,Interest Expense,5431.3
+2024-02-01,2024,2,202402,E-commerce,CF,Investing CF,Capital Expenditures,-6042.05
+2024-02-01,2024,2,202402,E-commerce,CF,Operating CF,Change in Accounts Payable,1396.84
+2024-02-01,2024,2,202402,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4772.16
+2024-02-01,2024,2,202402,E-commerce,CF,Operating CF,Change in Inventory,-1433.83
+2024-02-01,2024,2,202402,E-commerce,P&L,COGS,Direct Labor,16573.88
+2024-02-01,2024,2,202402,E-commerce,P&L,COGS,Materials,28486.36
+2024-02-01,2024,2,202402,E-commerce,P&L,COGS,Shipping & Logistics,6733.14
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,IT & Software,1298.87
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,Marketing,5019.53
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,Professional Fees,737.28
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,R&D,3793.71
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,Rent & Utilities,1807.85
+2024-02-01,2024,2,202402,E-commerce,P&L,Opex,Salaries & Benefits,16066.27
+2024-02-01,2024,2,202402,E-commerce,P&L,Revenue,Product Sales,90682.88
+2024-02-01,2024,2,202402,E-commerce,P&L,Revenue,Service Revenue,10075.88
+2024-02-01,2024,2,202402,Retail,CF,Investing CF,Capital Expenditures,-15642.83
+2024-02-01,2024,2,202402,Retail,CF,Operating CF,Change in Accounts Payable,4248.34
+2024-02-01,2024,2,202402,Retail,CF,Operating CF,Change in Accounts Receivable,-9745.5
+2024-02-01,2024,2,202402,Retail,CF,Operating CF,Change in Inventory,-4138.72
+2024-02-01,2024,2,202402,Retail,P&L,COGS,Direct Labor,35412.88
+2024-02-01,2024,2,202402,Retail,P&L,COGS,Materials,60865.89
+2024-02-01,2024,2,202402,Retail,P&L,COGS,Shipping & Logistics,14386.48
+2024-02-01,2024,2,202402,Retail,P&L,Opex,IT & Software,2605.18
+2024-02-01,2024,2,202402,Retail,P&L,Opex,Marketing,4657.07
+2024-02-01,2024,2,202402,Retail,P&L,Opex,Professional Fees,1203.64
+2024-02-01,2024,2,202402,Retail,P&L,Opex,R&D,2633.9
+2024-02-01,2024,2,202402,Retail,P&L,Opex,Rent & Utilities,3628.34
+2024-02-01,2024,2,202402,Retail,P&L,Opex,Salaries & Benefits,27774.44
+2024-02-01,2024,2,202402,Retail,P&L,Revenue,Product Sales,141758.22
+2024-02-01,2024,2,202402,Retail,P&L,Revenue,Service Revenue,47252.74
+2024-02-01,2024,2,202402,Wholesale,CF,Investing CF,Capital Expenditures,-8971.92
+2024-02-01,2024,2,202402,Wholesale,CF,Operating CF,Change in Accounts Payable,1964.28
+2024-02-01,2024,2,202402,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5111.32
+2024-02-01,2024,2,202402,Wholesale,CF,Operating CF,Change in Inventory,-2345.2
+2024-02-01,2024,2,202402,Wholesale,P&L,COGS,Direct Labor,28862.47
+2024-02-01,2024,2,202402,Wholesale,P&L,COGS,Materials,49607.38
+2024-02-01,2024,2,202402,Wholesale,P&L,COGS,Shipping & Logistics,11725.38
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,IT & Software,1953.08
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,Marketing,4215.98
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,Professional Fees,1005.76
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,R&D,2317.8
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,Rent & Utilities,2809.34
+2024-02-01,2024,2,202402,Wholesale,P&L,Opex,Salaries & Benefits,20348.2
+2024-02-01,2024,2,202402,Wholesale,P&L,Revenue,Product Sales,104280.03
+2024-02-01,2024,2,202402,Wholesale,P&L,Revenue,Service Revenue,34760.01
+2024-03-01,2024,3,202403,Corporate,CF,Financing CF,Debt Issuance,150000.0
+2024-03-01,2024,3,202403,Corporate,CF,Financing CF,Debt Repayment,-9245.2
+2024-03-01,2024,3,202403,Corporate,CF,Financing CF,Dividends Paid,-10785.69
+2024-03-01,2024,3,202403,Corporate,P&L,Other,Depreciation & Amortization,18552.33
+2024-03-01,2024,3,202403,Corporate,P&L,Other,Income Tax Expense,12128.77
+2024-03-01,2024,3,202403,Corporate,P&L,Other,Interest Expense,5594.38
+2024-03-01,2024,3,202403,E-commerce,CF,Investing CF,Capital Expenditures,-9881.64
+2024-03-01,2024,3,202403,E-commerce,CF,Operating CF,Change in Accounts Payable,1908.32
+2024-03-01,2024,3,202403,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6661.81
+2024-03-01,2024,3,202403,E-commerce,CF,Operating CF,Change in Inventory,-2314.26
+2024-03-01,2024,3,202403,E-commerce,P&L,COGS,Direct Labor,18650.18
+2024-03-01,2024,3,202403,E-commerce,P&L,COGS,Materials,32055.0
+2024-03-01,2024,3,202403,E-commerce,P&L,COGS,Shipping & Logistics,7576.64
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,IT & Software,1341.51
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,Marketing,5131.43
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,Professional Fees,870.78
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,R&D,2878.09
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,Rent & Utilities,1773.64
+2024-03-01,2024,3,202403,E-commerce,P&L,Opex,Salaries & Benefits,16030.23
+2024-03-01,2024,3,202403,E-commerce,P&L,Revenue,Product Sales,99583.39
+2024-03-01,2024,3,202403,E-commerce,P&L,Revenue,Service Revenue,11064.82
+2024-03-01,2024,3,202403,Retail,CF,Investing CF,Capital Expenditures,-17998.79
+2024-03-01,2024,3,202403,Retail,CF,Operating CF,Change in Accounts Payable,5580.05
+2024-03-01,2024,3,202403,Retail,CF,Operating CF,Change in Accounts Receivable,-7801.64
+2024-03-01,2024,3,202403,Retail,CF,Operating CF,Change in Inventory,-3065.21
+2024-03-01,2024,3,202403,Retail,P&L,COGS,Direct Labor,35515.39
+2024-03-01,2024,3,202403,Retail,P&L,COGS,Materials,61042.07
+2024-03-01,2024,3,202403,Retail,P&L,COGS,Shipping & Logistics,14428.13
+2024-03-01,2024,3,202403,Retail,P&L,Opex,IT & Software,2413.67
+2024-03-01,2024,3,202403,Retail,P&L,Opex,Marketing,5050.82
+2024-03-01,2024,3,202403,Retail,P&L,Opex,Professional Fees,1678.23
+2024-03-01,2024,3,202403,Retail,P&L,Opex,R&D,2913.23
+2024-03-01,2024,3,202403,Retail,P&L,Opex,Rent & Utilities,3612.28
+2024-03-01,2024,3,202403,Retail,P&L,Opex,Salaries & Benefits,26730.74
+2024-03-01,2024,3,202403,Retail,P&L,Revenue,Product Sales,145712.41
+2024-03-01,2024,3,202403,Retail,P&L,Revenue,Service Revenue,48570.8
+2024-03-01,2024,3,202403,Wholesale,CF,Investing CF,Capital Expenditures,-8983.56
+2024-03-01,2024,3,202403,Wholesale,CF,Operating CF,Change in Accounts Payable,4387.27
+2024-03-01,2024,3,202403,Wholesale,CF,Operating CF,Change in Accounts Receivable,-2824.59
+2024-03-01,2024,3,202403,Wholesale,CF,Operating CF,Change in Inventory,-3520.27
+2024-03-01,2024,3,202403,Wholesale,P&L,COGS,Direct Labor,31387.86
+2024-03-01,2024,3,202403,Wholesale,P&L,COGS,Materials,53947.88
+2024-03-01,2024,3,202403,Wholesale,P&L,COGS,Shipping & Logistics,12751.32
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,IT & Software,1639.1
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,Marketing,5134.78
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,Professional Fees,841.2
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,R&D,2312.52
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,Rent & Utilities,2852.55
+2024-03-01,2024,3,202403,Wholesale,P&L,Opex,Salaries & Benefits,21569.53
+2024-03-01,2024,3,202403,Wholesale,P&L,Revenue,Product Sales,113556.93
+2024-03-01,2024,3,202403,Wholesale,P&L,Revenue,Service Revenue,37852.31
+2024-04-01,2024,4,202404,Corporate,CF,Financing CF,Debt Repayment,-10652.75
+2024-04-01,2024,4,202404,Corporate,P&L,Other,Depreciation & Amortization,18828.95
+2024-04-01,2024,4,202404,Corporate,P&L,Other,Income Tax Expense,13371.85
+2024-04-01,2024,4,202404,Corporate,P&L,Other,Interest Expense,6531.28
+2024-04-01,2024,4,202404,E-commerce,CF,Investing CF,Capital Expenditures,-8765.05
+2024-04-01,2024,4,202404,E-commerce,CF,Operating CF,Change in Accounts Payable,2425.98
+2024-04-01,2024,4,202404,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5166.99
+2024-04-01,2024,4,202404,E-commerce,CF,Operating CF,Change in Inventory,-1491.18
+2024-04-01,2024,4,202404,E-commerce,P&L,COGS,Direct Labor,19051.04
+2024-04-01,2024,4,202404,E-commerce,P&L,COGS,Materials,32743.97
+2024-04-01,2024,4,202404,E-commerce,P&L,COGS,Shipping & Logistics,7739.48
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,IT & Software,1247.21
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,Marketing,6175.46
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,Professional Fees,777.0
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,R&D,3817.19
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,Rent & Utilities,1824.84
+2024-04-01,2024,4,202404,E-commerce,P&L,Opex,Salaries & Benefits,14787.67
+2024-04-01,2024,4,202404,E-commerce,P&L,Revenue,Product Sales,101251.05
+2024-04-01,2024,4,202404,E-commerce,P&L,Revenue,Service Revenue,11250.12
+2024-04-01,2024,4,202404,Retail,CF,Investing CF,Capital Expenditures,-14379.06
+2024-04-01,2024,4,202404,Retail,CF,Operating CF,Change in Accounts Payable,2232.44
+2024-04-01,2024,4,202404,Retail,CF,Operating CF,Change in Accounts Receivable,-6105.13
+2024-04-01,2024,4,202404,Retail,CF,Operating CF,Change in Inventory,-3030.39
+2024-04-01,2024,4,202404,Retail,P&L,COGS,Direct Labor,37323.88
+2024-04-01,2024,4,202404,Retail,P&L,COGS,Materials,64150.42
+2024-04-01,2024,4,202404,Retail,P&L,COGS,Shipping & Logistics,15162.83
+2024-04-01,2024,4,202404,Retail,P&L,Opex,IT & Software,2474.6
+2024-04-01,2024,4,202404,Retail,P&L,Opex,Marketing,5152.18
+2024-04-01,2024,4,202404,Retail,P&L,Opex,Professional Fees,1419.03
+2024-04-01,2024,4,202404,Retail,P&L,Opex,R&D,2887.48
+2024-04-01,2024,4,202404,Retail,P&L,Opex,Rent & Utilities,3625.7
+2024-04-01,2024,4,202404,Retail,P&L,Opex,Salaries & Benefits,27964.77
+2024-04-01,2024,4,202404,Retail,P&L,Revenue,Product Sales,153454.56
+2024-04-01,2024,4,202404,Retail,P&L,Revenue,Service Revenue,51151.52
+2024-04-01,2024,4,202404,Wholesale,CF,Investing CF,Capital Expenditures,-11641.47
+2024-04-01,2024,4,202404,Wholesale,CF,Operating CF,Change in Accounts Payable,3490.19
+2024-04-01,2024,4,202404,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4665.2
+2024-04-01,2024,4,202404,Wholesale,CF,Operating CF,Change in Inventory,-4629.66
+2024-04-01,2024,4,202404,Wholesale,P&L,COGS,Direct Labor,31562.59
+2024-04-01,2024,4,202404,Wholesale,P&L,COGS,Materials,54248.21
+2024-04-01,2024,4,202404,Wholesale,P&L,COGS,Shipping & Logistics,12822.3
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,IT & Software,1869.47
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,Marketing,6269.21
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,Professional Fees,1170.15
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,R&D,2253.98
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,Rent & Utilities,2820.32
+2024-04-01,2024,4,202404,Wholesale,P&L,Opex,Salaries & Benefits,20890.18
+2024-04-01,2024,4,202404,Wholesale,P&L,Revenue,Product Sales,114664.13
+2024-04-01,2024,4,202404,Wholesale,P&L,Revenue,Service Revenue,38221.38
+2024-05-01,2024,5,202405,Corporate,CF,Financing CF,Debt Repayment,-10546.22
+2024-05-01,2024,5,202405,Corporate,P&L,Other,Depreciation & Amortization,19421.65
+2024-05-01,2024,5,202405,Corporate,P&L,Other,Income Tax Expense,11444.38
+2024-05-01,2024,5,202405,Corporate,P&L,Other,Interest Expense,5857.93
+2024-05-01,2024,5,202405,E-commerce,CF,Investing CF,Capital Expenditures,-12831.15
+2024-05-01,2024,5,202405,E-commerce,CF,Operating CF,Change in Accounts Payable,1536.8
+2024-05-01,2024,5,202405,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4124.98
+2024-05-01,2024,5,202405,E-commerce,CF,Operating CF,Change in Inventory,-1129.83
+2024-05-01,2024,5,202405,E-commerce,P&L,COGS,Direct Labor,19704.97
+2024-05-01,2024,5,202405,E-commerce,P&L,COGS,Materials,33867.92
+2024-05-01,2024,5,202405,E-commerce,P&L,COGS,Shipping & Logistics,8005.15
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,IT & Software,1504.03
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,Marketing,6257.01
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,Professional Fees,469.48
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,R&D,3632.92
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,Rent & Utilities,1748.73
+2024-05-01,2024,5,202405,E-commerce,P&L,Opex,Salaries & Benefits,15564.03
+2024-05-01,2024,5,202405,E-commerce,P&L,Revenue,Product Sales,104134.94
+2024-05-01,2024,5,202405,E-commerce,P&L,Revenue,Service Revenue,11570.55
+2024-05-01,2024,5,202405,Retail,CF,Investing CF,Capital Expenditures,-14916.51
+2024-05-01,2024,5,202405,Retail,CF,Operating CF,Change in Accounts Payable,4797.54
+2024-05-01,2024,5,202405,Retail,CF,Operating CF,Change in Accounts Receivable,-9094.89
+2024-05-01,2024,5,202405,Retail,CF,Operating CF,Change in Inventory,-4615.7
+2024-05-01,2024,5,202405,Retail,P&L,COGS,Direct Labor,37160.23
+2024-05-01,2024,5,202405,Retail,P&L,COGS,Materials,63869.15
+2024-05-01,2024,5,202405,Retail,P&L,COGS,Shipping & Logistics,15096.35
+2024-05-01,2024,5,202405,Retail,P&L,Opex,IT & Software,2390.79
+2024-05-01,2024,5,202405,Retail,P&L,Opex,Marketing,6320.0
+2024-05-01,2024,5,202405,Retail,P&L,Opex,Professional Fees,1110.82
+2024-05-01,2024,5,202405,Retail,P&L,Opex,R&D,2708.59
+2024-05-01,2024,5,202405,Retail,P&L,Opex,Rent & Utilities,3605.53
+2024-05-01,2024,5,202405,Retail,P&L,Opex,Salaries & Benefits,28051.73
+2024-05-01,2024,5,202405,Retail,P&L,Revenue,Product Sales,153999.45
+2024-05-01,2024,5,202405,Retail,P&L,Revenue,Service Revenue,51333.15
+2024-05-01,2024,5,202405,Wholesale,CF,Investing CF,Capital Expenditures,-6465.13
+2024-05-01,2024,5,202405,Wholesale,CF,Operating CF,Change in Accounts Payable,2808.64
+2024-05-01,2024,5,202405,Wholesale,CF,Operating CF,Change in Accounts Receivable,-6136.92
+2024-05-01,2024,5,202405,Wholesale,CF,Operating CF,Change in Inventory,-2197.97
+2024-05-01,2024,5,202405,Wholesale,P&L,COGS,Direct Labor,33667.58
+2024-05-01,2024,5,202405,Wholesale,P&L,COGS,Materials,57866.16
+2024-05-01,2024,5,202405,Wholesale,P&L,COGS,Shipping & Logistics,13677.46
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,IT & Software,1487.72
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,Marketing,4114.5
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,Professional Fees,1462.62
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,R&D,2250.98
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,Rent & Utilities,2830.64
+2024-05-01,2024,5,202405,Wholesale,P&L,Opex,Salaries & Benefits,20813.9
+2024-05-01,2024,5,202405,Wholesale,P&L,Revenue,Product Sales,120793.2
+2024-05-01,2024,5,202405,Wholesale,P&L,Revenue,Service Revenue,40264.4
+2024-06-01,2024,6,202406,Corporate,CF,Financing CF,Debt Repayment,-10440.76
+2024-06-01,2024,6,202406,Corporate,CF,Financing CF,Dividends Paid,-10488.63
+2024-06-01,2024,6,202406,Corporate,P&L,Other,Depreciation & Amortization,19471.26
+2024-06-01,2024,6,202406,Corporate,P&L,Other,Income Tax Expense,11458.24
+2024-06-01,2024,6,202406,Corporate,P&L,Other,Interest Expense,5836.32
+2024-06-01,2024,6,202406,E-commerce,CF,Investing CF,Capital Expenditures,-11954.11
+2024-06-01,2024,6,202406,E-commerce,CF,Operating CF,Change in Accounts Payable,1978.8
+2024-06-01,2024,6,202406,E-commerce,CF,Operating CF,Change in Accounts Receivable,-2420.36
+2024-06-01,2024,6,202406,E-commerce,CF,Operating CF,Change in Inventory,-2586.02
+2024-06-01,2024,6,202406,E-commerce,P&L,COGS,Direct Labor,19020.63
+2024-06-01,2024,6,202406,E-commerce,P&L,COGS,Materials,32691.72
+2024-06-01,2024,6,202406,E-commerce,P&L,COGS,Shipping & Logistics,7727.13
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,IT & Software,1504.23
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,Marketing,5636.05
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,Professional Fees,648.9
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,R&D,3446.14
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,Rent & Utilities,1776.91
+2024-06-01,2024,6,202406,E-commerce,P&L,Opex,Salaries & Benefits,16187.77
+2024-06-01,2024,6,202406,E-commerce,P&L,Revenue,Product Sales,102168.0
+2024-06-01,2024,6,202406,E-commerce,P&L,Revenue,Service Revenue,11352.0
+2024-06-01,2024,6,202406,Retail,CF,Investing CF,Capital Expenditures,-13333.82
+2024-06-01,2024,6,202406,Retail,CF,Operating CF,Change in Accounts Payable,4612.94
+2024-06-01,2024,6,202406,Retail,CF,Operating CF,Change in Accounts Receivable,-9926.53
+2024-06-01,2024,6,202406,Retail,CF,Operating CF,Change in Inventory,-2982.66
+2024-06-01,2024,6,202406,Retail,P&L,COGS,Direct Labor,35138.52
+2024-06-01,2024,6,202406,Retail,P&L,COGS,Materials,60394.32
+2024-06-01,2024,6,202406,Retail,P&L,COGS,Shipping & Logistics,14275.02
+2024-06-01,2024,6,202406,Retail,P&L,Opex,IT & Software,2527.73
+2024-06-01,2024,6,202406,Retail,P&L,Opex,Marketing,6235.46
+2024-06-01,2024,6,202406,Retail,P&L,Opex,Professional Fees,1767.04
+2024-06-01,2024,6,202406,Retail,P&L,Opex,R&D,3142.97
+2024-06-01,2024,6,202406,Retail,P&L,Opex,Rent & Utilities,3738.7
+2024-06-01,2024,6,202406,Retail,P&L,Opex,Salaries & Benefits,28327.56
+2024-06-01,2024,6,202406,Retail,P&L,Revenue,Product Sales,144707.12
+2024-06-01,2024,6,202406,Retail,P&L,Revenue,Service Revenue,48235.71
+2024-06-01,2024,6,202406,Wholesale,CF,Investing CF,Capital Expenditures,-9202.94
+2024-06-01,2024,6,202406,Wholesale,CF,Operating CF,Change in Accounts Payable,2847.58
+2024-06-01,2024,6,202406,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5745.37
+2024-06-01,2024,6,202406,Wholesale,CF,Operating CF,Change in Inventory,-587.09
+2024-06-01,2024,6,202406,Wholesale,P&L,COGS,Direct Labor,32798.01
+2024-06-01,2024,6,202406,Wholesale,P&L,COGS,Materials,56371.58
+2024-06-01,2024,6,202406,Wholesale,P&L,COGS,Shipping & Logistics,13324.19
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,IT & Software,1751.3
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,Marketing,3751.85
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,Professional Fees,783.3
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,R&D,2172.0
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,Rent & Utilities,2846.73
+2024-06-01,2024,6,202406,Wholesale,P&L,Opex,Salaries & Benefits,20161.34
+2024-06-01,2024,6,202406,Wholesale,P&L,Revenue,Product Sales,116299.66
+2024-06-01,2024,6,202406,Wholesale,P&L,Revenue,Service Revenue,38766.55
+2024-07-01,2024,7,202407,Corporate,CF,Financing CF,Debt Repayment,-10336.35
+2024-07-01,2024,7,202407,Corporate,P&L,Other,Depreciation & Amortization,18330.32
+2024-07-01,2024,7,202407,Corporate,P&L,Other,Income Tax Expense,10236.88
+2024-07-01,2024,7,202407,Corporate,P&L,Other,Interest Expense,5643.03
+2024-07-01,2024,7,202407,E-commerce,CF,Investing CF,Capital Expenditures,-10013.43
+2024-07-01,2024,7,202407,E-commerce,CF,Operating CF,Change in Accounts Payable,2109.84
+2024-07-01,2024,7,202407,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4135.34
+2024-07-01,2024,7,202407,E-commerce,CF,Operating CF,Change in Inventory,-1699.16
+2024-07-01,2024,7,202407,E-commerce,P&L,COGS,Direct Labor,18522.28
+2024-07-01,2024,7,202407,E-commerce,P&L,COGS,Materials,31835.16
+2024-07-01,2024,7,202407,E-commerce,P&L,COGS,Shipping & Logistics,7524.68
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,IT & Software,1530.01
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,Marketing,5334.34
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,Professional Fees,754.39
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,R&D,3600.19
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,Rent & Utilities,1807.74
+2024-07-01,2024,7,202407,E-commerce,P&L,Opex,Salaries & Benefits,17191.03
+2024-07-01,2024,7,202407,E-commerce,P&L,Revenue,Product Sales,100885.29
+2024-07-01,2024,7,202407,E-commerce,P&L,Revenue,Service Revenue,11209.48
+2024-07-01,2024,7,202407,Retail,CF,Investing CF,Capital Expenditures,-9032.16
+2024-07-01,2024,7,202407,Retail,CF,Operating CF,Change in Accounts Payable,5091.81
+2024-07-01,2024,7,202407,Retail,CF,Operating CF,Change in Accounts Receivable,-6589.23
+2024-07-01,2024,7,202407,Retail,CF,Operating CF,Change in Inventory,-3387.33
+2024-07-01,2024,7,202407,Retail,P&L,COGS,Direct Labor,35447.92
+2024-07-01,2024,7,202407,Retail,P&L,COGS,Materials,60926.11
+2024-07-01,2024,7,202407,Retail,P&L,COGS,Shipping & Logistics,14400.72
+2024-07-01,2024,7,202407,Retail,P&L,Opex,IT & Software,2570.65
+2024-07-01,2024,7,202407,Retail,P&L,Opex,Marketing,5337.86
+2024-07-01,2024,7,202407,Retail,P&L,Opex,Professional Fees,975.54
+2024-07-01,2024,7,202407,Retail,P&L,Opex,R&D,3702.97
+2024-07-01,2024,7,202407,Retail,P&L,Opex,Rent & Utilities,3532.78
+2024-07-01,2024,7,202407,Retail,P&L,Opex,Salaries & Benefits,28133.88
+2024-07-01,2024,7,202407,Retail,P&L,Revenue,Product Sales,143924.9
+2024-07-01,2024,7,202407,Retail,P&L,Revenue,Service Revenue,47974.97
+2024-07-01,2024,7,202407,Wholesale,CF,Investing CF,Capital Expenditures,-8530.4
+2024-07-01,2024,7,202407,Wholesale,CF,Operating CF,Change in Accounts Payable,2906.81
+2024-07-01,2024,7,202407,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5880.48
+2024-07-01,2024,7,202407,Wholesale,CF,Operating CF,Change in Inventory,-3113.74
+2024-07-01,2024,7,202407,Wholesale,P&L,COGS,Direct Labor,31350.25
+2024-07-01,2024,7,202407,Wholesale,P&L,COGS,Materials,53883.25
+2024-07-01,2024,7,202407,Wholesale,P&L,COGS,Shipping & Logistics,12736.04
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,IT & Software,2269.69
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,Marketing,5610.1
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,Professional Fees,1133.26
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,R&D,2195.78
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,Rent & Utilities,2769.02
+2024-07-01,2024,7,202407,Wholesale,P&L,Opex,Salaries & Benefits,21771.99
+2024-07-01,2024,7,202407,Wholesale,P&L,Revenue,Product Sales,109800.15
+2024-07-01,2024,7,202407,Wholesale,P&L,Revenue,Service Revenue,36600.05
+2024-08-01,2024,8,202408,Corporate,CF,Financing CF,Debt Repayment,-10232.98
+2024-08-01,2024,8,202408,Corporate,P&L,Other,Depreciation & Amortization,19488.13
+2024-08-01,2024,8,202408,Corporate,P&L,Other,Income Tax Expense,9162.17
+2024-08-01,2024,8,202408,Corporate,P&L,Other,Interest Expense,5962.81
+2024-08-01,2024,8,202408,E-commerce,CF,Investing CF,Capital Expenditures,-10373.43
+2024-08-01,2024,8,202408,E-commerce,CF,Operating CF,Change in Accounts Payable,310.95
+2024-08-01,2024,8,202408,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6162.84
+2024-08-01,2024,8,202408,E-commerce,CF,Operating CF,Change in Inventory,-3011.69
+2024-08-01,2024,8,202408,E-commerce,P&L,COGS,Direct Labor,19750.65
+2024-08-01,2024,8,202408,E-commerce,P&L,COGS,Materials,33946.42
+2024-08-01,2024,8,202408,E-commerce,P&L,COGS,Shipping & Logistics,8023.7
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,IT & Software,1535.4
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,Marketing,6580.05
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,Professional Fees,769.89
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,R&D,3543.94
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,Rent & Utilities,1764.03
+2024-08-01,2024,8,202408,E-commerce,P&L,Opex,Salaries & Benefits,16369.63
+2024-08-01,2024,8,202408,E-commerce,P&L,Revenue,Product Sales,106713.54
+2024-08-01,2024,8,202408,E-commerce,P&L,Revenue,Service Revenue,11857.06
+2024-08-01,2024,8,202408,Retail,CF,Investing CF,Capital Expenditures,-13720.38
+2024-08-01,2024,8,202408,Retail,CF,Operating CF,Change in Accounts Payable,4125.87
+2024-08-01,2024,8,202408,Retail,CF,Operating CF,Change in Accounts Receivable,-3066.91
+2024-08-01,2024,8,202408,Retail,CF,Operating CF,Change in Inventory,-2761.5
+2024-08-01,2024,8,202408,Retail,P&L,COGS,Direct Labor,36752.72
+2024-08-01,2024,8,202408,Retail,P&L,COGS,Materials,63168.73
+2024-08-01,2024,8,202408,Retail,P&L,COGS,Shipping & Logistics,14930.79
+2024-08-01,2024,8,202408,Retail,P&L,Opex,IT & Software,2938.83
+2024-08-01,2024,8,202408,Retail,P&L,Opex,Marketing,5218.87
+2024-08-01,2024,8,202408,Retail,P&L,Opex,Professional Fees,1622.57
+2024-08-01,2024,8,202408,Retail,P&L,Opex,R&D,3038.79
+2024-08-01,2024,8,202408,Retail,P&L,Opex,Rent & Utilities,3576.54
+2024-08-01,2024,8,202408,Retail,P&L,Opex,Salaries & Benefits,28416.67
+2024-08-01,2024,8,202408,Retail,P&L,Revenue,Product Sales,146524.27
+2024-08-01,2024,8,202408,Retail,P&L,Revenue,Service Revenue,48841.42
+2024-08-01,2024,8,202408,Wholesale,CF,Investing CF,Capital Expenditures,-5160.72
+2024-08-01,2024,8,202408,Wholesale,CF,Operating CF,Change in Accounts Payable,3901.34
+2024-08-01,2024,8,202408,Wholesale,CF,Operating CF,Change in Accounts Receivable,-1203.27
+2024-08-01,2024,8,202408,Wholesale,CF,Operating CF,Change in Inventory,-3953.53
+2024-08-01,2024,8,202408,Wholesale,P&L,COGS,Direct Labor,30696.04
+2024-08-01,2024,8,202408,Wholesale,P&L,COGS,Materials,52758.82
+2024-08-01,2024,8,202408,Wholesale,P&L,COGS,Shipping & Logistics,12470.27
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,IT & Software,1766.17
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,Marketing,4386.79
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,Professional Fees,1456.89
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,R&D,2103.98
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,Rent & Utilities,2802.98
+2024-08-01,2024,8,202408,Wholesale,P&L,Opex,Salaries & Benefits,20799.75
+2024-08-01,2024,8,202408,Wholesale,P&L,Revenue,Product Sales,110211.22
+2024-08-01,2024,8,202408,Wholesale,P&L,Revenue,Service Revenue,36737.07
+2024-09-01,2024,9,202409,Corporate,CF,Financing CF,Debt Issuance,150000.0
+2024-09-01,2024,9,202409,Corporate,CF,Financing CF,Debt Repayment,-10130.65
+2024-09-01,2024,9,202409,Corporate,CF,Financing CF,Dividends Paid,-12471.96
+2024-09-01,2024,9,202409,Corporate,P&L,Other,Depreciation & Amortization,18798.16
+2024-09-01,2024,9,202409,Corporate,P&L,Other,Income Tax Expense,12354.01
+2024-09-01,2024,9,202409,Corporate,P&L,Other,Interest Expense,6197.47
+2024-09-01,2024,9,202409,E-commerce,CF,Investing CF,Capital Expenditures,-12214.66
+2024-09-01,2024,9,202409,E-commerce,CF,Operating CF,Change in Accounts Payable,2905.9
+2024-09-01,2024,9,202409,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6380.06
+2024-09-01,2024,9,202409,E-commerce,CF,Operating CF,Change in Inventory,-2019.33
+2024-09-01,2024,9,202409,E-commerce,P&L,COGS,Direct Labor,20609.52
+2024-09-01,2024,9,202409,E-commerce,P&L,COGS,Materials,35422.62
+2024-09-01,2024,9,202409,E-commerce,P&L,COGS,Shipping & Logistics,8372.62
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,IT & Software,1399.01
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,Marketing,6905.6
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,Professional Fees,751.31
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,R&D,3343.11
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,Rent & Utilities,1834.45
+2024-09-01,2024,9,202409,E-commerce,P&L,Opex,Salaries & Benefits,16113.26
+2024-09-01,2024,9,202409,E-commerce,P&L,Revenue,Product Sales,113837.37
+2024-09-01,2024,9,202409,E-commerce,P&L,Revenue,Service Revenue,12648.6
+2024-09-01,2024,9,202409,Retail,CF,Investing CF,Capital Expenditures,-14486.55
+2024-09-01,2024,9,202409,Retail,CF,Operating CF,Change in Accounts Payable,4575.58
+2024-09-01,2024,9,202409,Retail,CF,Operating CF,Change in Accounts Receivable,-12481.51
+2024-09-01,2024,9,202409,Retail,CF,Operating CF,Change in Inventory,-2201.79
+2024-09-01,2024,9,202409,Retail,P&L,COGS,Direct Labor,37774.54
+2024-09-01,2024,9,202409,Retail,P&L,COGS,Materials,64925.0
+2024-09-01,2024,9,202409,Retail,P&L,COGS,Shipping & Logistics,15345.91
+2024-09-01,2024,9,202409,Retail,P&L,Opex,IT & Software,2318.89
+2024-09-01,2024,9,202409,Retail,P&L,Opex,Marketing,6583.41
+2024-09-01,2024,9,202409,Retail,P&L,Opex,Professional Fees,1251.84
+2024-09-01,2024,9,202409,Retail,P&L,Opex,R&D,2677.88
+2024-09-01,2024,9,202409,Retail,P&L,Opex,Rent & Utilities,3587.96
+2024-09-01,2024,9,202409,Retail,P&L,Opex,Salaries & Benefits,29140.43
+2024-09-01,2024,9,202409,Retail,P&L,Revenue,Product Sales,152996.06
+2024-09-01,2024,9,202409,Retail,P&L,Revenue,Service Revenue,50998.69
+2024-09-01,2024,9,202409,Wholesale,CF,Investing CF,Capital Expenditures,-10182.53
+2024-09-01,2024,9,202409,Wholesale,CF,Operating CF,Change in Accounts Payable,2044.42
+2024-09-01,2024,9,202409,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7521.84
+2024-09-01,2024,9,202409,Wholesale,CF,Operating CF,Change in Inventory,-2559.9
+2024-09-01,2024,9,202409,Wholesale,P&L,COGS,Direct Labor,32404.64
+2024-09-01,2024,9,202409,Wholesale,P&L,COGS,Materials,55695.47
+2024-09-01,2024,9,202409,Wholesale,P&L,COGS,Shipping & Logistics,13164.38
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,IT & Software,1989.89
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,Marketing,3658.31
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,Professional Fees,1404.83
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,R&D,2021.93
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,Rent & Utilities,2849.06
+2024-09-01,2024,9,202409,Wholesale,P&L,Opex,Salaries & Benefits,20733.67
+2024-09-01,2024,9,202409,Wholesale,P&L,Revenue,Product Sales,115934.54
+2024-09-01,2024,9,202409,Wholesale,P&L,Revenue,Service Revenue,38644.85
+2024-10-01,2024,10,202410,Corporate,CF,Financing CF,Debt Repayment,-11529.35
+2024-10-01,2024,10,202410,Corporate,P&L,Other,Depreciation & Amortization,19274.12
+2024-10-01,2024,10,202410,Corporate,P&L,Other,Income Tax Expense,14899.79
+2024-10-01,2024,10,202410,Corporate,P&L,Other,Interest Expense,6912.31
+2024-10-01,2024,10,202410,E-commerce,CF,Investing CF,Capital Expenditures,-10367.87
+2024-10-01,2024,10,202410,E-commerce,CF,Operating CF,Change in Accounts Payable,1780.18
+2024-10-01,2024,10,202410,E-commerce,CF,Operating CF,Change in Accounts Receivable,-8085.74
+2024-10-01,2024,10,202410,E-commerce,CF,Operating CF,Change in Inventory,-2305.85
+2024-10-01,2024,10,202410,E-commerce,P&L,COGS,Direct Labor,22548.5
+2024-10-01,2024,10,202410,E-commerce,P&L,COGS,Materials,38755.24
+2024-10-01,2024,10,202410,E-commerce,P&L,COGS,Shipping & Logistics,9160.33
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,IT & Software,1538.55
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,Marketing,6987.82
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,Professional Fees,555.41
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,R&D,4015.13
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,Rent & Utilities,1821.37
+2024-10-01,2024,10,202410,E-commerce,P&L,Opex,Salaries & Benefits,17403.84
+2024-10-01,2024,10,202410,E-commerce,P&L,Revenue,Product Sales,122097.75
+2024-10-01,2024,10,202410,E-commerce,P&L,Revenue,Service Revenue,13566.42
+2024-10-01,2024,10,202410,Retail,CF,Investing CF,Capital Expenditures,-10874.5
+2024-10-01,2024,10,202410,Retail,CF,Operating CF,Change in Accounts Payable,4477.43
+2024-10-01,2024,10,202410,Retail,CF,Operating CF,Change in Accounts Receivable,-6582.24
+2024-10-01,2024,10,202410,Retail,CF,Operating CF,Change in Inventory,-111.81
+2024-10-01,2024,10,202410,Retail,P&L,COGS,Direct Labor,43179.6
+2024-10-01,2024,10,202410,Retail,P&L,COGS,Materials,74214.94
+2024-10-01,2024,10,202410,Retail,P&L,COGS,Shipping & Logistics,17541.71
+2024-10-01,2024,10,202410,Retail,P&L,Opex,IT & Software,2557.82
+2024-10-01,2024,10,202410,Retail,P&L,Opex,Marketing,5279.78
+2024-10-01,2024,10,202410,Retail,P&L,Opex,Professional Fees,1663.09
+2024-10-01,2024,10,202410,Retail,P&L,Opex,R&D,3449.26
+2024-10-01,2024,10,202410,Retail,P&L,Opex,Rent & Utilities,3574.52
+2024-10-01,2024,10,202410,Retail,P&L,Opex,Salaries & Benefits,28158.07
+2024-10-01,2024,10,202410,Retail,P&L,Revenue,Product Sales,170956.42
+2024-10-01,2024,10,202410,Retail,P&L,Revenue,Service Revenue,56985.47
+2024-10-01,2024,10,202410,Wholesale,CF,Investing CF,Capital Expenditures,-8667.61
+2024-10-01,2024,10,202410,Wholesale,CF,Operating CF,Change in Accounts Payable,3648.98
+2024-10-01,2024,10,202410,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4162.03
+2024-10-01,2024,10,202410,Wholesale,CF,Operating CF,Change in Inventory,-3642.82
+2024-10-01,2024,10,202410,Wholesale,P&L,COGS,Direct Labor,32987.27
+2024-10-01,2024,10,202410,Wholesale,P&L,COGS,Materials,56696.87
+2024-10-01,2024,10,202410,Wholesale,P&L,COGS,Shipping & Logistics,13401.08
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,IT & Software,1760.97
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,Marketing,4453.27
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,Professional Fees,1379.69
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,R&D,2446.0
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,Rent & Utilities,2812.44
+2024-10-01,2024,10,202410,Wholesale,P&L,Opex,Salaries & Benefits,21074.29
+2024-10-01,2024,10,202410,Wholesale,P&L,Revenue,Product Sales,115495.33
+2024-10-01,2024,10,202410,Wholesale,P&L,Revenue,Service Revenue,38498.44
+2024-11-01,2024,11,202411,Corporate,CF,Financing CF,Debt Repayment,-11414.05
+2024-11-01,2024,11,202411,Corporate,P&L,Other,Depreciation & Amortization,19295.15
+2024-11-01,2024,11,202411,Corporate,P&L,Other,Income Tax Expense,17676.44
+2024-11-01,2024,11,202411,Corporate,P&L,Other,Interest Expense,6515.23
+2024-11-01,2024,11,202411,E-commerce,CF,Investing CF,Capital Expenditures,-13767.99
+2024-11-01,2024,11,202411,E-commerce,CF,Operating CF,Change in Accounts Payable,1695.07
+2024-11-01,2024,11,202411,E-commerce,CF,Operating CF,Change in Accounts Receivable,-7281.53
+2024-11-01,2024,11,202411,E-commerce,CF,Operating CF,Change in Inventory,-2484.27
+2024-11-01,2024,11,202411,E-commerce,P&L,COGS,Direct Labor,22471.57
+2024-11-01,2024,11,202411,E-commerce,P&L,COGS,Materials,38623.0
+2024-11-01,2024,11,202411,E-commerce,P&L,COGS,Shipping & Logistics,9129.07
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,IT & Software,1430.62
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,Marketing,7031.52
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,Professional Fees,858.83
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,R&D,4257.65
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,Rent & Utilities,1808.16
+2024-11-01,2024,11,202411,E-commerce,P&L,Opex,Salaries & Benefits,17324.8
+2024-11-01,2024,11,202411,E-commerce,P&L,Revenue,Product Sales,120746.98
+2024-11-01,2024,11,202411,E-commerce,P&L,Revenue,Service Revenue,13416.33
+2024-11-01,2024,11,202411,Retail,CF,Investing CF,Capital Expenditures,-14691.25
+2024-11-01,2024,11,202411,Retail,CF,Operating CF,Change in Accounts Payable,4496.54
+2024-11-01,2024,11,202411,Retail,CF,Operating CF,Change in Accounts Receivable,-12094.09
+2024-11-01,2024,11,202411,Retail,CF,Operating CF,Change in Inventory,-2682.98
+2024-11-01,2024,11,202411,Retail,P&L,COGS,Direct Labor,40562.05
+2024-11-01,2024,11,202411,Retail,P&L,COGS,Materials,69716.02
+2024-11-01,2024,11,202411,Retail,P&L,COGS,Shipping & Logistics,16478.33
+2024-11-01,2024,11,202411,Retail,P&L,Opex,IT & Software,2818.93
+2024-11-01,2024,11,202411,Retail,P&L,Opex,Marketing,8370.66
+2024-11-01,2024,11,202411,Retail,P&L,Opex,Professional Fees,1026.47
+2024-11-01,2024,11,202411,Retail,P&L,Opex,R&D,2944.25
+2024-11-01,2024,11,202411,Retail,P&L,Opex,Rent & Utilities,3604.71
+2024-11-01,2024,11,202411,Retail,P&L,Opex,Salaries & Benefits,27511.33
+2024-11-01,2024,11,202411,Retail,P&L,Revenue,Product Sales,168104.3
+2024-11-01,2024,11,202411,Retail,P&L,Revenue,Service Revenue,56034.77
+2024-11-01,2024,11,202411,Wholesale,CF,Investing CF,Capital Expenditures,-13762.09
+2024-11-01,2024,11,202411,Wholesale,CF,Operating CF,Change in Accounts Payable,4012.97
+2024-11-01,2024,11,202411,Wholesale,CF,Operating CF,Change in Accounts Receivable,-3619.82
+2024-11-01,2024,11,202411,Wholesale,CF,Operating CF,Change in Inventory,-2018.56
+2024-11-01,2024,11,202411,Wholesale,P&L,COGS,Direct Labor,34960.65
+2024-11-01,2024,11,202411,Wholesale,P&L,COGS,Materials,60088.62
+2024-11-01,2024,11,202411,Wholesale,P&L,COGS,Shipping & Logistics,14202.76
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,IT & Software,1705.03
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,Marketing,5799.42
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,Professional Fees,804.5
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,R&D,2172.92
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,Rent & Utilities,2829.37
+2024-11-01,2024,11,202411,Wholesale,P&L,Opex,Salaries & Benefits,21280.51
+2024-11-01,2024,11,202411,Wholesale,P&L,Revenue,Product Sales,127336.28
+2024-11-01,2024,11,202411,Wholesale,P&L,Revenue,Service Revenue,42445.43
+2024-12-01,2024,12,202412,Corporate,CF,Financing CF,Debt Repayment,-11299.91
+2024-12-01,2024,12,202412,Corporate,CF,Financing CF,Dividends Paid,-14556.78
+2024-12-01,2024,12,202412,Corporate,P&L,Other,Depreciation & Amortization,19192.15
+2024-12-01,2024,12,202412,Corporate,P&L,Other,Income Tax Expense,15057.71
+2024-12-01,2024,12,202412,Corporate,P&L,Other,Interest Expense,6770.69
+2024-12-01,2024,12,202412,E-commerce,CF,Investing CF,Capital Expenditures,-7173.42
+2024-12-01,2024,12,202412,E-commerce,CF,Operating CF,Change in Accounts Payable,2088.54
+2024-12-01,2024,12,202412,E-commerce,CF,Operating CF,Change in Accounts Receivable,-8278.73
+2024-12-01,2024,12,202412,E-commerce,CF,Operating CF,Change in Inventory,-1576.65
+2024-12-01,2024,12,202412,E-commerce,P&L,COGS,Direct Labor,23936.86
+2024-12-01,2024,12,202412,E-commerce,P&L,COGS,Materials,41141.47
+2024-12-01,2024,12,202412,E-commerce,P&L,COGS,Shipping & Logistics,9724.35
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,IT & Software,1323.94
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,Marketing,6842.41
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,Professional Fees,512.63
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,R&D,3653.04
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,Rent & Utilities,1800.28
+2024-12-01,2024,12,202412,E-commerce,P&L,Opex,Salaries & Benefits,17413.12
+2024-12-01,2024,12,202412,E-commerce,P&L,Revenue,Product Sales,125999.41
+2024-12-01,2024,12,202412,E-commerce,P&L,Revenue,Service Revenue,13999.93
+2024-12-01,2024,12,202412,Retail,CF,Investing CF,Capital Expenditures,-15884.7
+2024-12-01,2024,12,202412,Retail,CF,Operating CF,Change in Accounts Payable,1963.08
+2024-12-01,2024,12,202412,Retail,CF,Operating CF,Change in Accounts Receivable,-15538.06
+2024-12-01,2024,12,202412,Retail,CF,Operating CF,Change in Inventory,-3886.7
+2024-12-01,2024,12,202412,Retail,P&L,COGS,Direct Labor,43435.99
+2024-12-01,2024,12,202412,Retail,P&L,COGS,Materials,74655.61
+2024-12-01,2024,12,202412,Retail,P&L,COGS,Shipping & Logistics,17645.87
+2024-12-01,2024,12,202412,Retail,P&L,Opex,IT & Software,2871.72
+2024-12-01,2024,12,202412,Retail,P&L,Opex,Marketing,7180.61
+2024-12-01,2024,12,202412,Retail,P&L,Opex,Professional Fees,1083.51
+2024-12-01,2024,12,202412,Retail,P&L,Opex,R&D,3133.43
+2024-12-01,2024,12,202412,Retail,P&L,Opex,Rent & Utilities,3623.84
+2024-12-01,2024,12,202412,Retail,P&L,Opex,Salaries & Benefits,28582.79
+2024-12-01,2024,12,202412,Retail,P&L,Revenue,Product Sales,177655.22
+2024-12-01,2024,12,202412,Retail,P&L,Revenue,Service Revenue,59218.41
+2024-12-01,2024,12,202412,Wholesale,CF,Investing CF,Capital Expenditures,-9729.17
+2024-12-01,2024,12,202412,Wholesale,CF,Operating CF,Change in Accounts Payable,3428.33
+2024-12-01,2024,12,202412,Wholesale,CF,Operating CF,Change in Accounts Receivable,-6785.66
+2024-12-01,2024,12,202412,Wholesale,CF,Operating CF,Change in Inventory,-2991.52
+2024-12-01,2024,12,202412,Wholesale,P&L,COGS,Direct Labor,35816.55
+2024-12-01,2024,12,202412,Wholesale,P&L,COGS,Materials,61559.7
+2024-12-01,2024,12,202412,Wholesale,P&L,COGS,Shipping & Logistics,14550.47
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,IT & Software,1834.62
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,Marketing,5076.38
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,Professional Fees,1367.14
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,R&D,2176.51
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,Rent & Utilities,2811.18
+2024-12-01,2024,12,202412,Wholesale,P&L,Opex,Salaries & Benefits,21422.47
+2024-12-01,2024,12,202412,Wholesale,P&L,Revenue,Product Sales,123015.64
+2024-12-01,2024,12,202412,Wholesale,P&L,Revenue,Service Revenue,41005.21
+2025-01-01,2025,1,202501,Corporate,CF,Financing CF,Debt Repayment,-11186.92
+2025-01-01,2025,1,202501,Corporate,P&L,Other,Depreciation & Amortization,19084.5
+2025-01-01,2025,1,202501,Corporate,P&L,Other,Income Tax Expense,11342.55
+2025-01-01,2025,1,202501,Corporate,P&L,Other,Interest Expense,6415.2
+2025-01-01,2025,1,202501,E-commerce,CF,Investing CF,Capital Expenditures,-6995.02
+2025-01-01,2025,1,202501,E-commerce,CF,Operating CF,Change in Accounts Payable,3909.25
+2025-01-01,2025,1,202501,E-commerce,CF,Operating CF,Change in Accounts Receivable,-1159.27
+2025-01-01,2025,1,202501,E-commerce,CF,Operating CF,Change in Inventory,-1025.93
+2025-01-01,2025,1,202501,E-commerce,P&L,COGS,Direct Labor,18766.44
+2025-01-01,2025,1,202501,E-commerce,P&L,COGS,Materials,32254.82
+2025-01-01,2025,1,202501,E-commerce,P&L,COGS,Shipping & Logistics,7623.87
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,IT & Software,1655.8
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,Marketing,7218.87
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,Professional Fees,673.22
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,R&D,3510.03
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,Rent & Utilities,1840.54
+2025-01-01,2025,1,202501,E-commerce,P&L,Opex,Salaries & Benefits,18123.53
+2025-01-01,2025,1,202501,E-commerce,P&L,Revenue,Product Sales,104260.08
+2025-01-01,2025,1,202501,E-commerce,P&L,Revenue,Service Revenue,11584.45
+2025-01-01,2025,1,202501,Retail,CF,Investing CF,Capital Expenditures,-13306.34
+2025-01-01,2025,1,202501,Retail,CF,Operating CF,Change in Accounts Payable,4302.55
+2025-01-01,2025,1,202501,Retail,CF,Operating CF,Change in Accounts Receivable,-10005.07
+2025-01-01,2025,1,202501,Retail,CF,Operating CF,Change in Inventory,-4209.93
+2025-01-01,2025,1,202501,Retail,P&L,COGS,Direct Labor,36102.13
+2025-01-01,2025,1,202501,Retail,P&L,COGS,Materials,62050.54
+2025-01-01,2025,1,202501,Retail,P&L,COGS,Shipping & Logistics,14666.49
+2025-01-01,2025,1,202501,Retail,P&L,Opex,IT & Software,2582.5
+2025-01-01,2025,1,202501,Retail,P&L,Opex,Marketing,5724.59
+2025-01-01,2025,1,202501,Retail,P&L,Opex,Professional Fees,1240.44
+2025-01-01,2025,1,202501,Retail,P&L,Opex,R&D,2933.15
+2025-01-01,2025,1,202501,Retail,P&L,Opex,Rent & Utilities,3630.59
+2025-01-01,2025,1,202501,Retail,P&L,Opex,Salaries & Benefits,28660.31
+2025-01-01,2025,1,202501,Retail,P&L,Revenue,Product Sales,147726.64
+2025-01-01,2025,1,202501,Retail,P&L,Revenue,Service Revenue,49242.21
+2025-01-01,2025,1,202501,Wholesale,CF,Investing CF,Capital Expenditures,-7054.07
+2025-01-01,2025,1,202501,Wholesale,CF,Operating CF,Change in Accounts Payable,2240.8
+2025-01-01,2025,1,202501,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4900.02
+2025-01-01,2025,1,202501,Wholesale,CF,Operating CF,Change in Inventory,-2959.39
+2025-01-01,2025,1,202501,Wholesale,P&L,COGS,Direct Labor,29815.12
+2025-01-01,2025,1,202501,Wholesale,P&L,COGS,Materials,51244.73
+2025-01-01,2025,1,202501,Wholesale,P&L,COGS,Shipping & Logistics,12112.39
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,IT & Software,1852.33
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,Marketing,3498.3
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,Professional Fees,1197.86
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,R&D,2350.64
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,Rent & Utilities,2794.85
+2025-01-01,2025,1,202501,Wholesale,P&L,Opex,Salaries & Benefits,22051.73
+2025-01-01,2025,1,202501,Wholesale,P&L,Revenue,Product Sales,109627.16
+2025-01-01,2025,1,202501,Wholesale,P&L,Revenue,Service Revenue,36542.39
+2025-02-01,2025,2,202502,Corporate,CF,Financing CF,Debt Repayment,-11075.05
+2025-02-01,2025,2,202502,Corporate,P&L,Other,Depreciation & Amortization,20395.94
+2025-02-01,2025,2,202502,Corporate,P&L,Other,Income Tax Expense,7997.14
+2025-02-01,2025,2,202502,Corporate,P&L,Other,Interest Expense,6189.21
+2025-02-01,2025,2,202502,E-commerce,CF,Investing CF,Capital Expenditures,-10262.53
+2025-02-01,2025,2,202502,E-commerce,CF,Operating CF,Change in Accounts Payable,2370.82
+2025-02-01,2025,2,202502,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4983.45
+2025-02-01,2025,2,202502,E-commerce,CF,Operating CF,Change in Inventory,-1529.51
+2025-02-01,2025,2,202502,E-commerce,P&L,COGS,Direct Labor,21083.65
+2025-02-01,2025,2,202502,E-commerce,P&L,COGS,Materials,36237.52
+2025-02-01,2025,2,202502,E-commerce,P&L,COGS,Shipping & Logistics,8565.23
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,IT & Software,1644.91
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,Marketing,7294.74
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,Professional Fees,760.49
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,R&D,4049.52
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,Rent & Utilities,1815.36
+2025-02-01,2025,2,202502,E-commerce,P&L,Opex,Salaries & Benefits,18138.65
+2025-02-01,2025,2,202502,E-commerce,P&L,Revenue,Product Sales,108728.74
+2025-02-01,2025,2,202502,E-commerce,P&L,Revenue,Service Revenue,12080.97
+2025-02-01,2025,2,202502,Retail,CF,Investing CF,Capital Expenditures,-13724.5
+2025-02-01,2025,2,202502,Retail,CF,Operating CF,Change in Accounts Payable,3523.11
+2025-02-01,2025,2,202502,Retail,CF,Operating CF,Change in Accounts Receivable,-8732.4
+2025-02-01,2025,2,202502,Retail,CF,Operating CF,Change in Inventory,-3015.77
+2025-02-01,2025,2,202502,Retail,P&L,COGS,Direct Labor,34415.75
+2025-02-01,2025,2,202502,Retail,P&L,COGS,Materials,59152.08
+2025-02-01,2025,2,202502,Retail,P&L,COGS,Shipping & Logistics,13981.4
+2025-02-01,2025,2,202502,Retail,P&L,Opex,IT & Software,2828.93
+2025-02-01,2025,2,202502,Retail,P&L,Opex,Marketing,6256.55
+2025-02-01,2025,2,202502,Retail,P&L,Opex,Professional Fees,1269.63
+2025-02-01,2025,2,202502,Retail,P&L,Opex,R&D,3128.99
+2025-02-01,2025,2,202502,Retail,P&L,Opex,Rent & Utilities,3604.22
+2025-02-01,2025,2,202502,Retail,P&L,Opex,Salaries & Benefits,29800.98
+2025-02-01,2025,2,202502,Retail,P&L,Revenue,Product Sales,140648.04
+2025-02-01,2025,2,202502,Retail,P&L,Revenue,Service Revenue,46882.68
+2025-02-01,2025,2,202502,Wholesale,CF,Investing CF,Capital Expenditures,-8688.74
+2025-02-01,2025,2,202502,Wholesale,CF,Operating CF,Change in Accounts Payable,1775.19
+2025-02-01,2025,2,202502,Wholesale,CF,Operating CF,Change in Accounts Receivable,-2580.06
+2025-02-01,2025,2,202502,Wholesale,CF,Operating CF,Change in Inventory,-2238.81
+2025-02-01,2025,2,202502,Wholesale,P&L,COGS,Direct Labor,29389.57
+2025-02-01,2025,2,202502,Wholesale,P&L,COGS,Materials,50513.32
+2025-02-01,2025,2,202502,Wholesale,P&L,COGS,Shipping & Logistics,11939.51
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,IT & Software,2165.48
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,Marketing,4988.99
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,Professional Fees,1347.22
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,R&D,2379.81
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,Rent & Utilities,2827.52
+2025-02-01,2025,2,202502,Wholesale,P&L,Opex,Salaries & Benefits,21964.08
+2025-02-01,2025,2,202502,Wholesale,P&L,Revenue,Product Sales,108045.5
+2025-02-01,2025,2,202502,Wholesale,P&L,Revenue,Service Revenue,36015.17
+2025-03-01,2025,3,202503,Corporate,CF,Financing CF,Debt Issuance,150000.0
+2025-03-01,2025,3,202503,Corporate,CF,Financing CF,Debt Repayment,-10964.3
+2025-03-01,2025,3,202503,Corporate,CF,Financing CF,Dividends Paid,-11522.57
+2025-03-01,2025,3,202503,Corporate,P&L,Other,Depreciation & Amortization,20316.71
+2025-03-01,2025,3,202503,Corporate,P&L,Other,Income Tax Expense,12166.78
+2025-03-01,2025,3,202503,Corporate,P&L,Other,Interest Expense,6509.72
+2025-03-01,2025,3,202503,E-commerce,CF,Investing CF,Capital Expenditures,-10540.75
+2025-03-01,2025,3,202503,E-commerce,CF,Operating CF,Change in Accounts Payable,3144.77
+2025-03-01,2025,3,202503,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3448.87
+2025-03-01,2025,3,202503,E-commerce,CF,Operating CF,Change in Inventory,-1346.5
+2025-03-01,2025,3,202503,E-commerce,P&L,COGS,Direct Labor,20365.29
+2025-03-01,2025,3,202503,E-commerce,P&L,COGS,Materials,35002.84
+2025-03-01,2025,3,202503,E-commerce,P&L,COGS,Shipping & Logistics,8273.4
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,IT & Software,1692.65
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,Marketing,5222.21
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,Professional Fees,493.85
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,R&D,3945.43
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,Rent & Utilities,1825.06
+2025-03-01,2025,3,202503,E-commerce,P&L,Opex,Salaries & Benefits,17487.81
+2025-03-01,2025,3,202503,E-commerce,P&L,Revenue,Product Sales,110365.86
+2025-03-01,2025,3,202503,E-commerce,P&L,Revenue,Service Revenue,12262.87
+2025-03-01,2025,3,202503,Retail,CF,Investing CF,Capital Expenditures,-18340.74
+2025-03-01,2025,3,202503,Retail,CF,Operating CF,Change in Accounts Payable,5079.49
+2025-03-01,2025,3,202503,Retail,CF,Operating CF,Change in Accounts Receivable,-8870.75
+2025-03-01,2025,3,202503,Retail,CF,Operating CF,Change in Inventory,-2875.28
+2025-03-01,2025,3,202503,Retail,P&L,COGS,Direct Labor,40647.18
+2025-03-01,2025,3,202503,Retail,P&L,COGS,Materials,69862.33
+2025-03-01,2025,3,202503,Retail,P&L,COGS,Shipping & Logistics,16512.92
+2025-03-01,2025,3,202503,Retail,P&L,Opex,IT & Software,2605.29
+2025-03-01,2025,3,202503,Retail,P&L,Opex,Marketing,7730.92
+2025-03-01,2025,3,202503,Retail,P&L,Opex,Professional Fees,1402.52
+2025-03-01,2025,3,202503,Retail,P&L,Opex,R&D,3369.47
+2025-03-01,2025,3,202503,Retail,P&L,Opex,Rent & Utilities,3588.83
+2025-03-01,2025,3,202503,Retail,P&L,Opex,Salaries & Benefits,29459.24
+2025-03-01,2025,3,202503,Retail,P&L,Revenue,Product Sales,161623.49
+2025-03-01,2025,3,202503,Retail,P&L,Revenue,Service Revenue,53874.5
+2025-03-01,2025,3,202503,Wholesale,CF,Investing CF,Capital Expenditures,-14445.7
+2025-03-01,2025,3,202503,Wholesale,CF,Operating CF,Change in Accounts Payable,4151.58
+2025-03-01,2025,3,202503,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4461.93
+2025-03-01,2025,3,202503,Wholesale,CF,Operating CF,Change in Inventory,-2201.04
+2025-03-01,2025,3,202503,Wholesale,P&L,COGS,Direct Labor,32827.76
+2025-03-01,2025,3,202503,Wholesale,P&L,COGS,Materials,56422.71
+2025-03-01,2025,3,202503,Wholesale,P&L,COGS,Shipping & Logistics,13336.28
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,IT & Software,1691.68
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,Marketing,4864.27
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,Professional Fees,817.22
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,R&D,2187.21
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,Rent & Utilities,2760.61
+2025-03-01,2025,3,202503,Wholesale,P&L,Opex,Salaries & Benefits,21250.91
+2025-03-01,2025,3,202503,Wholesale,P&L,Revenue,Product Sales,118292.85
+2025-03-01,2025,3,202503,Wholesale,P&L,Revenue,Service Revenue,39430.95
+2025-04-01,2025,4,202504,Corporate,CF,Financing CF,Debt Repayment,-12354.65
+2025-04-01,2025,4,202504,Corporate,P&L,Other,Depreciation & Amortization,20125.16
+2025-04-01,2025,4,202504,Corporate,P&L,Other,Income Tax Expense,15334.43
+2025-04-01,2025,4,202504,Corporate,P&L,Other,Interest Expense,7188.33
+2025-04-01,2025,4,202504,E-commerce,CF,Investing CF,Capital Expenditures,-15559.22
+2025-04-01,2025,4,202504,E-commerce,CF,Operating CF,Change in Accounts Payable,3166.72
+2025-04-01,2025,4,202504,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5400.94
+2025-04-01,2025,4,202504,E-commerce,CF,Operating CF,Change in Inventory,-2217.39
+2025-04-01,2025,4,202504,E-commerce,P&L,COGS,Direct Labor,22163.35
+2025-04-01,2025,4,202504,E-commerce,P&L,COGS,Materials,38093.26
+2025-04-01,2025,4,202504,E-commerce,P&L,COGS,Shipping & Logistics,9003.86
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,IT & Software,1321.57
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,Marketing,6898.53
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,Professional Fees,783.43
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,R&D,3693.63
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,Rent & Utilities,1805.76
+2025-04-01,2025,4,202504,E-commerce,P&L,Opex,Salaries & Benefits,17605.86
+2025-04-01,2025,4,202504,E-commerce,P&L,Revenue,Product Sales,122241.32
+2025-04-01,2025,4,202504,E-commerce,P&L,Revenue,Service Revenue,13582.37
+2025-04-01,2025,4,202504,Retail,CF,Investing CF,Capital Expenditures,-12186.96
+2025-04-01,2025,4,202504,Retail,CF,Operating CF,Change in Accounts Payable,3335.16
+2025-04-01,2025,4,202504,Retail,CF,Operating CF,Change in Accounts Receivable,-8561.2
+2025-04-01,2025,4,202504,Retail,CF,Operating CF,Change in Inventory,-4592.24
+2025-04-01,2025,4,202504,Retail,P&L,COGS,Direct Labor,37897.5
+2025-04-01,2025,4,202504,Retail,P&L,COGS,Materials,65136.33
+2025-04-01,2025,4,202504,Retail,P&L,COGS,Shipping & Logistics,15395.86
+2025-04-01,2025,4,202504,Retail,P&L,Opex,IT & Software,2535.52
+2025-04-01,2025,4,202504,Retail,P&L,Opex,Marketing,7368.75
+2025-04-01,2025,4,202504,Retail,P&L,Opex,Professional Fees,1181.59
+2025-04-01,2025,4,202504,Retail,P&L,Opex,R&D,3371.34
+2025-04-01,2025,4,202504,Retail,P&L,Opex,Rent & Utilities,3622.62
+2025-04-01,2025,4,202504,Retail,P&L,Opex,Salaries & Benefits,30320.75
+2025-04-01,2025,4,202504,Retail,P&L,Revenue,Product Sales,156953.25
+2025-04-01,2025,4,202504,Retail,P&L,Revenue,Service Revenue,52317.75
+2025-04-01,2025,4,202504,Wholesale,CF,Investing CF,Capital Expenditures,-13114.15
+2025-04-01,2025,4,202504,Wholesale,CF,Operating CF,Change in Accounts Payable,2547.13
+2025-04-01,2025,4,202504,Wholesale,CF,Operating CF,Change in Accounts Receivable,-8682.22
+2025-04-01,2025,4,202504,Wholesale,CF,Operating CF,Change in Inventory,-3173.98
+2025-04-01,2025,4,202504,Wholesale,P&L,COGS,Direct Labor,34214.89
+2025-04-01,2025,4,202504,Wholesale,P&L,COGS,Materials,58806.84
+2025-04-01,2025,4,202504,Wholesale,P&L,COGS,Shipping & Logistics,13899.8
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,IT & Software,2350.24
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,Marketing,4218.72
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,Professional Fees,1098.48
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,R&D,2204.35
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,Rent & Utilities,2803.42
+2025-04-01,2025,4,202504,Wholesale,P&L,Opex,Salaries & Benefits,22289.28
+2025-04-01,2025,4,202504,Wholesale,P&L,Revenue,Product Sales,121054.23
+2025-04-01,2025,4,202504,Wholesale,P&L,Revenue,Service Revenue,40351.41
+2025-05-01,2025,5,202505,Corporate,CF,Financing CF,Debt Repayment,-12231.11
+2025-05-01,2025,5,202505,Corporate,P&L,Other,Depreciation & Amortization,19972.97
+2025-05-01,2025,5,202505,Corporate,P&L,Other,Income Tax Expense,14626.65
+2025-05-01,2025,5,202505,Corporate,P&L,Other,Interest Expense,7159.63
+2025-05-01,2025,5,202505,E-commerce,CF,Investing CF,Capital Expenditures,-10647.02
+2025-05-01,2025,5,202505,E-commerce,CF,Operating CF,Change in Accounts Payable,4188.27
+2025-05-01,2025,5,202505,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3181.8
+2025-05-01,2025,5,202505,E-commerce,CF,Operating CF,Change in Inventory,-1331.4
+2025-05-01,2025,5,202505,E-commerce,P&L,COGS,Direct Labor,22655.75
+2025-05-01,2025,5,202505,E-commerce,P&L,COGS,Materials,38939.57
+2025-05-01,2025,5,202505,E-commerce,P&L,COGS,Shipping & Logistics,9203.9
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,IT & Software,1482.1
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,Marketing,6992.55
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,Professional Fees,624.54
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,R&D,4004.45
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,Rent & Utilities,1800.73
+2025-05-01,2025,5,202505,E-commerce,P&L,Opex,Salaries & Benefits,18899.69
+2025-05-01,2025,5,202505,E-commerce,P&L,Revenue,Product Sales,123598.57
+2025-05-01,2025,5,202505,E-commerce,P&L,Revenue,Service Revenue,13733.17
+2025-05-01,2025,5,202505,Retail,CF,Investing CF,Capital Expenditures,-9216.05
+2025-05-01,2025,5,202505,Retail,CF,Operating CF,Change in Accounts Payable,4573.2
+2025-05-01,2025,5,202505,Retail,CF,Operating CF,Change in Accounts Receivable,-7342.74
+2025-05-01,2025,5,202505,Retail,CF,Operating CF,Change in Inventory,-2090.26
+2025-05-01,2025,5,202505,Retail,P&L,COGS,Direct Labor,39422.12
+2025-05-01,2025,5,202505,Retail,P&L,COGS,Materials,67756.76
+2025-05-01,2025,5,202505,Retail,P&L,COGS,Shipping & Logistics,16015.24
+2025-05-01,2025,5,202505,Retail,P&L,Opex,IT & Software,2616.42
+2025-05-01,2025,5,202505,Retail,P&L,Opex,Marketing,6810.57
+2025-05-01,2025,5,202505,Retail,P&L,Opex,Professional Fees,1294.0
+2025-05-01,2025,5,202505,Retail,P&L,Opex,R&D,2929.85
+2025-05-01,2025,5,202505,Retail,P&L,Opex,Rent & Utilities,3608.77
+2025-05-01,2025,5,202505,Retail,P&L,Opex,Salaries & Benefits,29291.16
+2025-05-01,2025,5,202505,Retail,P&L,Revenue,Product Sales,160333.31
+2025-05-01,2025,5,202505,Retail,P&L,Revenue,Service Revenue,53444.44
+2025-05-01,2025,5,202505,Wholesale,CF,Investing CF,Capital Expenditures,-10671.67
+2025-05-01,2025,5,202505,Wholesale,CF,Operating CF,Change in Accounts Payable,2929.43
+2025-05-01,2025,5,202505,Wholesale,CF,Operating CF,Change in Accounts Receivable,-4948.24
+2025-05-01,2025,5,202505,Wholesale,CF,Operating CF,Change in Inventory,-3173.84
+2025-05-01,2025,5,202505,Wholesale,P&L,COGS,Direct Labor,34627.47
+2025-05-01,2025,5,202505,Wholesale,P&L,COGS,Materials,59515.97
+2025-05-01,2025,5,202505,Wholesale,P&L,COGS,Shipping & Logistics,14067.41
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,IT & Software,1995.5
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,Marketing,5250.53
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,Professional Fees,768.27
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,R&D,2496.86
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,Rent & Utilities,2827.23
+2025-05-01,2025,5,202505,Wholesale,P&L,Opex,Salaries & Benefits,21548.11
+2025-05-01,2025,5,202505,Wholesale,P&L,Revenue,Product Sales,118665.38
+2025-05-01,2025,5,202505,Wholesale,P&L,Revenue,Service Revenue,39555.13
+2025-06-01,2025,6,202506,Corporate,CF,Financing CF,Debt Repayment,-12108.8
+2025-06-01,2025,6,202506,Corporate,CF,Financing CF,Dividends Paid,-11378.93
+2025-06-01,2025,6,202506,Corporate,P&L,Other,Depreciation & Amortization,19276.81
+2025-06-01,2025,6,202506,Corporate,P&L,Other,Income Tax Expense,12928.34
+2025-06-01,2025,6,202506,Corporate,P&L,Other,Interest Expense,7534.85
+2025-06-01,2025,6,202506,E-commerce,CF,Investing CF,Capital Expenditures,-12971.1
+2025-06-01,2025,6,202506,E-commerce,CF,Operating CF,Change in Accounts Payable,2909.58
+2025-06-01,2025,6,202506,E-commerce,CF,Operating CF,Change in Accounts Receivable,-3427.36
+2025-06-01,2025,6,202506,E-commerce,CF,Operating CF,Change in Inventory,-2515.51
+2025-06-01,2025,6,202506,E-commerce,P&L,COGS,Direct Labor,22545.51
+2025-06-01,2025,6,202506,E-commerce,P&L,COGS,Materials,38750.09
+2025-06-01,2025,6,202506,E-commerce,P&L,COGS,Shipping & Logistics,9159.11
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,IT & Software,1481.29
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,Marketing,6360.92
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,Professional Fees,1028.9
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,R&D,3768.63
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,Rent & Utilities,1805.02
+2025-06-01,2025,6,202506,E-commerce,P&L,Opex,Salaries & Benefits,19562.8
+2025-06-01,2025,6,202506,E-commerce,P&L,Revenue,Product Sales,119796.67
+2025-06-01,2025,6,202506,E-commerce,P&L,Revenue,Service Revenue,13310.74
+2025-06-01,2025,6,202506,Retail,CF,Investing CF,Capital Expenditures,-10594.44
+2025-06-01,2025,6,202506,Retail,CF,Operating CF,Change in Accounts Payable,3865.13
+2025-06-01,2025,6,202506,Retail,CF,Operating CF,Change in Accounts Receivable,-8416.15
+2025-06-01,2025,6,202506,Retail,CF,Operating CF,Change in Inventory,-4020.66
+2025-06-01,2025,6,202506,Retail,P&L,COGS,Direct Labor,39101.42
+2025-06-01,2025,6,202506,Retail,P&L,COGS,Materials,67205.56
+2025-06-01,2025,6,202506,Retail,P&L,COGS,Shipping & Logistics,15884.95
+2025-06-01,2025,6,202506,Retail,P&L,Opex,IT & Software,2564.3
+2025-06-01,2025,6,202506,Retail,P&L,Opex,Marketing,6643.39
+2025-06-01,2025,6,202506,Retail,P&L,Opex,Professional Fees,1151.27
+2025-06-01,2025,6,202506,Retail,P&L,Opex,R&D,3486.92
+2025-06-01,2025,6,202506,Retail,P&L,Opex,Rent & Utilities,3594.24
+2025-06-01,2025,6,202506,Retail,P&L,Opex,Salaries & Benefits,31300.47
+2025-06-01,2025,6,202506,Retail,P&L,Revenue,Product Sales,158684.22
+2025-06-01,2025,6,202506,Retail,P&L,Revenue,Service Revenue,52894.74
+2025-06-01,2025,6,202506,Wholesale,CF,Investing CF,Capital Expenditures,-9973.84
+2025-06-01,2025,6,202506,Wholesale,CF,Operating CF,Change in Accounts Payable,1601.48
+2025-06-01,2025,6,202506,Wholesale,CF,Operating CF,Change in Accounts Receivable,-6249.67
+2025-06-01,2025,6,202506,Wholesale,CF,Operating CF,Change in Inventory,-3472.12
+2025-06-01,2025,6,202506,Wholesale,P&L,COGS,Direct Labor,32807.54
+2025-06-01,2025,6,202506,Wholesale,P&L,COGS,Materials,56387.97
+2025-06-01,2025,6,202506,Wholesale,P&L,COGS,Shipping & Logistics,13328.07
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,IT & Software,2043.49
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,Marketing,5061.1
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,Professional Fees,1222.86
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,R&D,2489.73
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,Rent & Utilities,2830.26
+2025-06-01,2025,6,202506,Wholesale,P&L,Opex,Salaries & Benefits,22408.72
+2025-06-01,2025,6,202506,Wholesale,P&L,Revenue,Product Sales,119700.9
+2025-06-01,2025,6,202506,Wholesale,P&L,Revenue,Service Revenue,39900.3
+2025-07-01,2025,7,202507,Corporate,CF,Financing CF,Debt Repayment,-11987.71
+2025-07-01,2025,7,202507,Corporate,P&L,Other,Depreciation & Amortization,20461.52
+2025-07-01,2025,7,202507,Corporate,P&L,Other,Income Tax Expense,12162.14
+2025-07-01,2025,7,202507,Corporate,P&L,Other,Interest Expense,7754.19
+2025-07-01,2025,7,202507,E-commerce,CF,Investing CF,Capital Expenditures,-15906.3
+2025-07-01,2025,7,202507,E-commerce,CF,Operating CF,Change in Accounts Payable,4722.25
+2025-07-01,2025,7,202507,E-commerce,CF,Operating CF,Change in Accounts Receivable,-5183.1
+2025-07-01,2025,7,202507,E-commerce,CF,Operating CF,Change in Inventory,-1571.68
+2025-07-01,2025,7,202507,E-commerce,P&L,COGS,Direct Labor,22090.76
+2025-07-01,2025,7,202507,E-commerce,P&L,COGS,Materials,37968.49
+2025-07-01,2025,7,202507,E-commerce,P&L,COGS,Shipping & Logistics,8974.37
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,IT & Software,1547.57
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,Marketing,6698.86
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,Professional Fees,522.75
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,R&D,4492.28
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,Rent & Utilities,1839.79
+2025-07-01,2025,7,202507,E-commerce,P&L,Opex,Salaries & Benefits,19036.61
+2025-07-01,2025,7,202507,E-commerce,P&L,Revenue,Product Sales,119792.31
+2025-07-01,2025,7,202507,E-commerce,P&L,Revenue,Service Revenue,13310.26
+2025-07-01,2025,7,202507,Retail,CF,Investing CF,Capital Expenditures,-14142.89
+2025-07-01,2025,7,202507,Retail,CF,Operating CF,Change in Accounts Payable,3293.05
+2025-07-01,2025,7,202507,Retail,CF,Operating CF,Change in Accounts Receivable,-8825.83
+2025-07-01,2025,7,202507,Retail,CF,Operating CF,Change in Inventory,-3872.55
+2025-07-01,2025,7,202507,Retail,P&L,COGS,Direct Labor,41005.63
+2025-07-01,2025,7,202507,Retail,P&L,COGS,Materials,70478.43
+2025-07-01,2025,7,202507,Retail,P&L,COGS,Shipping & Logistics,16658.54
+2025-07-01,2025,7,202507,Retail,P&L,Opex,IT & Software,2642.52
+2025-07-01,2025,7,202507,Retail,P&L,Opex,Marketing,6326.01
+2025-07-01,2025,7,202507,Retail,P&L,Opex,Professional Fees,1443.63
+2025-07-01,2025,7,202507,Retail,P&L,Opex,R&D,3453.72
+2025-07-01,2025,7,202507,Retail,P&L,Opex,Rent & Utilities,3585.56
+2025-07-01,2025,7,202507,Retail,P&L,Opex,Salaries & Benefits,30517.05
+2025-07-01,2025,7,202507,Retail,P&L,Revenue,Product Sales,160773.17
+2025-07-01,2025,7,202507,Retail,P&L,Revenue,Service Revenue,53591.06
+2025-07-01,2025,7,202507,Wholesale,CF,Investing CF,Capital Expenditures,-8490.02
+2025-07-01,2025,7,202507,Wholesale,CF,Operating CF,Change in Accounts Payable,2635.56
+2025-07-01,2025,7,202507,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7992.14
+2025-07-01,2025,7,202507,Wholesale,CF,Operating CF,Change in Inventory,-3095.05
+2025-07-01,2025,7,202507,Wholesale,P&L,COGS,Direct Labor,32088.52
+2025-07-01,2025,7,202507,Wholesale,P&L,COGS,Materials,55152.14
+2025-07-01,2025,7,202507,Wholesale,P&L,COGS,Shipping & Logistics,13035.96
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,IT & Software,1899.1
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,Marketing,3918.98
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,Professional Fees,1126.67
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,R&D,2357.81
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,Rent & Utilities,2819.08
+2025-07-01,2025,7,202507,Wholesale,P&L,Opex,Salaries & Benefits,22791.69
+2025-07-01,2025,7,202507,Wholesale,P&L,Revenue,Product Sales,116936.69
+2025-07-01,2025,7,202507,Wholesale,P&L,Revenue,Service Revenue,38978.9
+2025-08-01,2025,8,202508,Corporate,CF,Financing CF,Debt Repayment,-11867.83
+2025-08-01,2025,8,202508,Corporate,P&L,Other,Depreciation & Amortization,19305.13
+2025-08-01,2025,8,202508,Corporate,P&L,Other,Income Tax Expense,12861.87
+2025-08-01,2025,8,202508,Corporate,P&L,Other,Interest Expense,7284.46
+2025-08-01,2025,8,202508,E-commerce,CF,Investing CF,Capital Expenditures,-10964.68
+2025-08-01,2025,8,202508,E-commerce,CF,Operating CF,Change in Accounts Payable,1822.59
+2025-08-01,2025,8,202508,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4638.24
+2025-08-01,2025,8,202508,E-commerce,CF,Operating CF,Change in Inventory,-2244.34
+2025-08-01,2025,8,202508,E-commerce,P&L,COGS,Direct Labor,23697.29
+2025-08-01,2025,8,202508,E-commerce,P&L,COGS,Materials,40729.71
+2025-08-01,2025,8,202508,E-commerce,P&L,COGS,Shipping & Logistics,9627.02
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,IT & Software,1565.21
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,Marketing,7814.83
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,Professional Fees,573.88
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,R&D,3997.19
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,Rent & Utilities,1796.34
+2025-08-01,2025,8,202508,E-commerce,P&L,Opex,Salaries & Benefits,20335.8
+2025-08-01,2025,8,202508,E-commerce,P&L,Revenue,Product Sales,129605.37
+2025-08-01,2025,8,202508,E-commerce,P&L,Revenue,Service Revenue,14400.6
+2025-08-01,2025,8,202508,Retail,CF,Investing CF,Capital Expenditures,-12018.57
+2025-08-01,2025,8,202508,Retail,CF,Operating CF,Change in Accounts Payable,3671.91
+2025-08-01,2025,8,202508,Retail,CF,Operating CF,Change in Accounts Receivable,-6698.26
+2025-08-01,2025,8,202508,Retail,CF,Operating CF,Change in Inventory,-1440.32
+2025-08-01,2025,8,202508,Retail,P&L,COGS,Direct Labor,42343.13
+2025-08-01,2025,8,202508,Retail,P&L,COGS,Materials,72777.26
+2025-08-01,2025,8,202508,Retail,P&L,COGS,Shipping & Logistics,17201.9
+2025-08-01,2025,8,202508,Retail,P&L,Opex,IT & Software,3169.48
+2025-08-01,2025,8,202508,Retail,P&L,Opex,Marketing,8884.35
+2025-08-01,2025,8,202508,Retail,P&L,Opex,Professional Fees,1207.21
+2025-08-01,2025,8,202508,Retail,P&L,Opex,R&D,3533.65
+2025-08-01,2025,8,202508,Retail,P&L,Opex,Rent & Utilities,3606.6
+2025-08-01,2025,8,202508,Retail,P&L,Opex,Salaries & Benefits,29636.26
+2025-08-01,2025,8,202508,Retail,P&L,Revenue,Product Sales,167885.46
+2025-08-01,2025,8,202508,Retail,P&L,Revenue,Service Revenue,55961.82
+2025-08-01,2025,8,202508,Wholesale,CF,Investing CF,Capital Expenditures,-6529.01
+2025-08-01,2025,8,202508,Wholesale,CF,Operating CF,Change in Accounts Payable,3278.86
+2025-08-01,2025,8,202508,Wholesale,CF,Operating CF,Change in Accounts Receivable,-8880.71
+2025-08-01,2025,8,202508,Wholesale,CF,Operating CF,Change in Inventory,-3989.37
+2025-08-01,2025,8,202508,Wholesale,P&L,COGS,Direct Labor,32494.53
+2025-08-01,2025,8,202508,Wholesale,P&L,COGS,Materials,55849.97
+2025-08-01,2025,8,202508,Wholesale,P&L,COGS,Shipping & Logistics,13200.9
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,IT & Software,1865.79
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,Marketing,4799.17
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,Professional Fees,1021.5
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,R&D,2675.09
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,Rent & Utilities,2774.95
+2025-08-01,2025,8,202508,Wholesale,P&L,Opex,Salaries & Benefits,21863.44
+2025-08-01,2025,8,202508,Wholesale,P&L,Revenue,Product Sales,116110.47
+2025-08-01,2025,8,202508,Wholesale,P&L,Revenue,Service Revenue,38703.49
+2025-09-01,2025,9,202509,Corporate,CF,Financing CF,Debt Issuance,150000.0
+2025-09-01,2025,9,202509,Corporate,CF,Financing CF,Debt Repayment,-11749.15
+2025-09-01,2025,9,202509,Corporate,CF,Financing CF,Dividends Paid,-12302.0
+2025-09-01,2025,9,202509,Corporate,P&L,Other,Depreciation & Amortization,21007.42
+2025-09-01,2025,9,202509,Corporate,P&L,Other,Income Tax Expense,13296.41
+2025-09-01,2025,9,202509,Corporate,P&L,Other,Interest Expense,7097.62
+2025-09-01,2025,9,202509,E-commerce,CF,Investing CF,Capital Expenditures,-12962.86
+2025-09-01,2025,9,202509,E-commerce,CF,Operating CF,Change in Accounts Payable,3279.33
+2025-09-01,2025,9,202509,E-commerce,CF,Operating CF,Change in Accounts Receivable,-8749.71
+2025-09-01,2025,9,202509,E-commerce,CF,Operating CF,Change in Inventory,-1735.9
+2025-09-01,2025,9,202509,E-commerce,P&L,COGS,Direct Labor,23483.02
+2025-09-01,2025,9,202509,E-commerce,P&L,COGS,Materials,40361.43
+2025-09-01,2025,9,202509,E-commerce,P&L,COGS,Shipping & Logistics,9539.98
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,IT & Software,1892.03
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,Marketing,7644.28
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,Professional Fees,545.81
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,R&D,3372.94
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,Rent & Utilities,1806.73
+2025-09-01,2025,9,202509,E-commerce,P&L,Opex,Salaries & Benefits,20151.69
+2025-09-01,2025,9,202509,E-commerce,P&L,Revenue,Product Sales,131090.77
+2025-09-01,2025,9,202509,E-commerce,P&L,Revenue,Service Revenue,14565.64
+2025-09-01,2025,9,202509,Retail,CF,Investing CF,Capital Expenditures,-11928.85
+2025-09-01,2025,9,202509,Retail,CF,Operating CF,Change in Accounts Payable,6798.99
+2025-09-01,2025,9,202509,Retail,CF,Operating CF,Change in Accounts Receivable,-5300.13
+2025-09-01,2025,9,202509,Retail,CF,Operating CF,Change in Inventory,-5183.92
+2025-09-01,2025,9,202509,Retail,P&L,COGS,Direct Labor,40843.45
+2025-09-01,2025,9,202509,Retail,P&L,COGS,Materials,70199.68
+2025-09-01,2025,9,202509,Retail,P&L,COGS,Shipping & Logistics,16592.65
+2025-09-01,2025,9,202509,Retail,P&L,Opex,IT & Software,2380.71
+2025-09-01,2025,9,202509,Retail,P&L,Opex,Marketing,6919.47
+2025-09-01,2025,9,202509,Retail,P&L,Opex,Professional Fees,1581.67
+2025-09-01,2025,9,202509,Retail,P&L,Opex,R&D,3580.39
+2025-09-01,2025,9,202509,Retail,P&L,Opex,Rent & Utilities,3579.23
+2025-09-01,2025,9,202509,Retail,P&L,Opex,Salaries & Benefits,32234.21
+2025-09-01,2025,9,202509,Retail,P&L,Revenue,Product Sales,164551.33
+2025-09-01,2025,9,202509,Retail,P&L,Revenue,Service Revenue,54850.44
+2025-09-01,2025,9,202509,Wholesale,CF,Investing CF,Capital Expenditures,-8873.43
+2025-09-01,2025,9,202509,Wholesale,CF,Operating CF,Change in Accounts Payable,4743.5
+2025-09-01,2025,9,202509,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5723.51
+2025-09-01,2025,9,202509,Wholesale,CF,Operating CF,Change in Inventory,-4905.62
+2025-09-01,2025,9,202509,Wholesale,P&L,COGS,Direct Labor,35502.81
+2025-09-01,2025,9,202509,Wholesale,P&L,COGS,Materials,61020.46
+2025-09-01,2025,9,202509,Wholesale,P&L,COGS,Shipping & Logistics,14423.02
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,IT & Software,2347.76
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,Marketing,5016.01
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,Professional Fees,1038.72
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,R&D,2262.72
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,Rent & Utilities,2839.46
+2025-09-01,2025,9,202509,Wholesale,P&L,Opex,Salaries & Benefits,22982.62
+2025-09-01,2025,9,202509,Wholesale,P&L,Revenue,Product Sales,123871.34
+2025-09-01,2025,9,202509,Wholesale,P&L,Revenue,Service Revenue,41290.45
+2025-10-01,2025,10,202510,Corporate,CF,Financing CF,Debt Repayment,-13131.66
+2025-10-01,2025,10,202510,Corporate,P&L,Other,Depreciation & Amortization,19980.34
+2025-10-01,2025,10,202510,Corporate,P&L,Other,Income Tax Expense,13618.21
+2025-10-01,2025,10,202510,Corporate,P&L,Other,Interest Expense,7348.3
+2025-10-01,2025,10,202510,E-commerce,CF,Investing CF,Capital Expenditures,-15348.54
+2025-10-01,2025,10,202510,E-commerce,CF,Operating CF,Change in Accounts Payable,4167.84
+2025-10-01,2025,10,202510,E-commerce,CF,Operating CF,Change in Accounts Receivable,-4738.99
+2025-10-01,2025,10,202510,E-commerce,CF,Operating CF,Change in Inventory,-3152.7
+2025-10-01,2025,10,202510,E-commerce,P&L,COGS,Direct Labor,25334.45
+2025-10-01,2025,10,202510,E-commerce,P&L,COGS,Materials,43543.58
+2025-10-01,2025,10,202510,E-commerce,P&L,COGS,Shipping & Logistics,10292.12
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,IT & Software,1689.74
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,Marketing,8215.22
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,Professional Fees,589.84
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,R&D,4344.2
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,Rent & Utilities,1774.55
+2025-10-01,2025,10,202510,E-commerce,P&L,Opex,Salaries & Benefits,19384.7
+2025-10-01,2025,10,202510,E-commerce,P&L,Revenue,Product Sales,136817.27
+2025-10-01,2025,10,202510,E-commerce,P&L,Revenue,Service Revenue,15201.92
+2025-10-01,2025,10,202510,Retail,CF,Investing CF,Capital Expenditures,-12731.68
+2025-10-01,2025,10,202510,Retail,CF,Operating CF,Change in Accounts Payable,5184.52
+2025-10-01,2025,10,202510,Retail,CF,Operating CF,Change in Accounts Receivable,-7556.96
+2025-10-01,2025,10,202510,Retail,CF,Operating CF,Change in Inventory,-2653.14
+2025-10-01,2025,10,202510,Retail,P&L,COGS,Direct Labor,41635.35
+2025-10-01,2025,10,202510,Retail,P&L,COGS,Materials,71560.75
+2025-10-01,2025,10,202510,Retail,P&L,COGS,Shipping & Logistics,16914.36
+2025-10-01,2025,10,202510,Retail,P&L,Opex,IT & Software,2632.78
+2025-10-01,2025,10,202510,Retail,P&L,Opex,Marketing,6439.85
+2025-10-01,2025,10,202510,Retail,P&L,Opex,Professional Fees,1453.53
+2025-10-01,2025,10,202510,Retail,P&L,Opex,R&D,2764.8
+2025-10-01,2025,10,202510,Retail,P&L,Opex,Rent & Utilities,3578.42
+2025-10-01,2025,10,202510,Retail,P&L,Opex,Salaries & Benefits,31839.7
+2025-10-01,2025,10,202510,Retail,P&L,Revenue,Product Sales,163810.71
+2025-10-01,2025,10,202510,Retail,P&L,Revenue,Service Revenue,54603.57
+2025-10-01,2025,10,202510,Wholesale,CF,Investing CF,Capital Expenditures,-9509.89
+2025-10-01,2025,10,202510,Wholesale,CF,Operating CF,Change in Accounts Payable,2319.82
+2025-10-01,2025,10,202510,Wholesale,CF,Operating CF,Change in Accounts Receivable,-9704.26
+2025-10-01,2025,10,202510,Wholesale,CF,Operating CF,Change in Inventory,-4222.8
+2025-10-01,2025,10,202510,Wholesale,P&L,COGS,Direct Labor,34774.42
+2025-10-01,2025,10,202510,Wholesale,P&L,COGS,Materials,59768.54
+2025-10-01,2025,10,202510,Wholesale,P&L,COGS,Shipping & Logistics,14127.11
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,IT & Software,1909.91
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,Marketing,3965.75
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,Professional Fees,1172.46
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,R&D,2155.13
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,Rent & Utilities,2778.5
+2025-10-01,2025,10,202510,Wholesale,P&L,Opex,Salaries & Benefits,21743.61
+2025-10-01,2025,10,202510,Wholesale,P&L,Revenue,Product Sales,124188.61
+2025-10-01,2025,10,202510,Wholesale,P&L,Revenue,Service Revenue,41396.2
+2025-11-01,2025,11,202511,Corporate,CF,Financing CF,Debt Repayment,-13000.34
+2025-11-01,2025,11,202511,Corporate,P&L,Other,Depreciation & Amortization,20647.58
+2025-11-01,2025,11,202511,Corporate,P&L,Other,Income Tax Expense,15349.13
+2025-11-01,2025,11,202511,Corporate,P&L,Other,Interest Expense,7544.01
+2025-11-01,2025,11,202511,E-commerce,CF,Investing CF,Capital Expenditures,-16471.54
+2025-11-01,2025,11,202511,E-commerce,CF,Operating CF,Change in Accounts Payable,2931.92
+2025-11-01,2025,11,202511,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6391.09
+2025-11-01,2025,11,202511,E-commerce,CF,Operating CF,Change in Inventory,-2887.23
+2025-11-01,2025,11,202511,E-commerce,P&L,COGS,Direct Labor,25401.07
+2025-11-01,2025,11,202511,E-commerce,P&L,COGS,Materials,43658.09
+2025-11-01,2025,11,202511,E-commerce,P&L,COGS,Shipping & Logistics,10319.18
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,IT & Software,1765.94
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,Marketing,9078.84
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,Professional Fees,675.49
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,R&D,5336.31
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,Rent & Utilities,1807.08
+2025-11-01,2025,11,202511,E-commerce,P&L,Opex,Salaries & Benefits,20300.35
+2025-11-01,2025,11,202511,E-commerce,P&L,Revenue,Product Sales,138260.53
+2025-11-01,2025,11,202511,E-commerce,P&L,Revenue,Service Revenue,15362.28
+2025-11-01,2025,11,202511,Retail,CF,Investing CF,Capital Expenditures,-14809.41
+2025-11-01,2025,11,202511,Retail,CF,Operating CF,Change in Accounts Payable,5039.72
+2025-11-01,2025,11,202511,Retail,CF,Operating CF,Change in Accounts Receivable,-14274.51
+2025-11-01,2025,11,202511,Retail,CF,Operating CF,Change in Inventory,-5795.71
+2025-11-01,2025,11,202511,Retail,P&L,COGS,Direct Labor,45665.11
+2025-11-01,2025,11,202511,Retail,P&L,COGS,Materials,78486.91
+2025-11-01,2025,11,202511,Retail,P&L,COGS,Shipping & Logistics,18551.45
+2025-11-01,2025,11,202511,Retail,P&L,Opex,IT & Software,2735.16
+2025-11-01,2025,11,202511,Retail,P&L,Opex,Marketing,8085.91
+2025-11-01,2025,11,202511,Retail,P&L,Opex,Professional Fees,1224.44
+2025-11-01,2025,11,202511,Retail,P&L,Opex,R&D,2801.35
+2025-11-01,2025,11,202511,Retail,P&L,Opex,Rent & Utilities,3646.0
+2025-11-01,2025,11,202511,Retail,P&L,Opex,Salaries & Benefits,29841.88
+2025-11-01,2025,11,202511,Retail,P&L,Revenue,Product Sales,182651.1
+2025-11-01,2025,11,202511,Retail,P&L,Revenue,Service Revenue,60883.7
+2025-11-01,2025,11,202511,Wholesale,CF,Investing CF,Capital Expenditures,-9393.52
+2025-11-01,2025,11,202511,Wholesale,CF,Operating CF,Change in Accounts Payable,2961.38
+2025-11-01,2025,11,202511,Wholesale,CF,Operating CF,Change in Accounts Receivable,-5697.15
+2025-11-01,2025,11,202511,Wholesale,CF,Operating CF,Change in Inventory,-2873.63
+2025-11-01,2025,11,202511,Wholesale,P&L,COGS,Direct Labor,37699.72
+2025-11-01,2025,11,202511,Wholesale,P&L,COGS,Materials,64796.4
+2025-11-01,2025,11,202511,Wholesale,P&L,COGS,Shipping & Logistics,15315.51
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,IT & Software,1979.87
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,Marketing,4393.93
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,Professional Fees,1669.99
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,R&D,2445.32
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,Rent & Utilities,2813.79
+2025-11-01,2025,11,202511,Wholesale,P&L,Opex,Salaries & Benefits,22706.82
+2025-11-01,2025,11,202511,Wholesale,P&L,Revenue,Product Sales,132094.06
+2025-11-01,2025,11,202511,Wholesale,P&L,Revenue,Service Revenue,44031.35
+2025-12-01,2025,12,202512,Corporate,CF,Financing CF,Debt Repayment,-12870.34
+2025-12-01,2025,12,202512,Corporate,CF,Financing CF,Dividends Paid,-16854.02
+2025-12-01,2025,12,202512,Corporate,P&L,Other,Depreciation & Amortization,20311.47
+2025-12-01,2025,12,202512,Corporate,P&L,Other,Income Tax Expense,19747.47
+2025-12-01,2025,12,202512,Corporate,P&L,Other,Interest Expense,8180.02
+2025-12-01,2025,12,202512,E-commerce,CF,Investing CF,Capital Expenditures,-14377.37
+2025-12-01,2025,12,202512,E-commerce,CF,Operating CF,Change in Accounts Payable,4079.34
+2025-12-01,2025,12,202512,E-commerce,CF,Operating CF,Change in Accounts Receivable,-6507.0
+2025-12-01,2025,12,202512,E-commerce,CF,Operating CF,Change in Inventory,-2535.42
+2025-12-01,2025,12,202512,E-commerce,P&L,COGS,Direct Labor,26396.49
+2025-12-01,2025,12,202512,E-commerce,P&L,COGS,Materials,45368.97
+2025-12-01,2025,12,202512,E-commerce,P&L,COGS,Shipping & Logistics,10723.58
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,IT & Software,1825.19
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,Marketing,5904.22
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,Professional Fees,1078.99
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,R&D,3907.67
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,Rent & Utilities,1761.25
+2025-12-01,2025,12,202512,E-commerce,P&L,Opex,Salaries & Benefits,20809.78
+2025-12-01,2025,12,202512,E-commerce,P&L,Revenue,Product Sales,146674.66
+2025-12-01,2025,12,202512,E-commerce,P&L,Revenue,Service Revenue,16297.18
+2025-12-01,2025,12,202512,Retail,CF,Investing CF,Capital Expenditures,-9544.3
+2025-12-01,2025,12,202512,Retail,CF,Operating CF,Change in Accounts Payable,2537.92
+2025-12-01,2025,12,202512,Retail,CF,Operating CF,Change in Accounts Receivable,-14157.23
+2025-12-01,2025,12,202512,Retail,CF,Operating CF,Change in Inventory,-3120.81
+2025-12-01,2025,12,202512,Retail,P&L,COGS,Direct Labor,51608.56
+2025-12-01,2025,12,202512,Retail,P&L,COGS,Materials,88702.21
+2025-12-01,2025,12,202512,Retail,P&L,COGS,Shipping & Logistics,20965.98
+2025-12-01,2025,12,202512,Retail,P&L,Opex,IT & Software,2406.11
+2025-12-01,2025,12,202512,Retail,P&L,Opex,Marketing,7758.02
+2025-12-01,2025,12,202512,Retail,P&L,Opex,Professional Fees,1637.58
+2025-12-01,2025,12,202512,Retail,P&L,Opex,R&D,3543.68
+2025-12-01,2025,12,202512,Retail,P&L,Opex,Rent & Utilities,3649.27
+2025-12-01,2025,12,202512,Retail,P&L,Opex,Salaries & Benefits,31974.76
+2025-12-01,2025,12,202512,Retail,P&L,Revenue,Product Sales,201474.39
+2025-12-01,2025,12,202512,Retail,P&L,Revenue,Service Revenue,67158.13
+2025-12-01,2025,12,202512,Wholesale,CF,Investing CF,Capital Expenditures,-14680.97
+2025-12-01,2025,12,202512,Wholesale,CF,Operating CF,Change in Accounts Payable,1963.25
+2025-12-01,2025,12,202512,Wholesale,CF,Operating CF,Change in Accounts Receivable,-7639.29
+2025-12-01,2025,12,202512,Wholesale,CF,Operating CF,Change in Inventory,-5343.38
+2025-12-01,2025,12,202512,Wholesale,P&L,COGS,Direct Labor,38925.01
+2025-12-01,2025,12,202512,Wholesale,P&L,COGS,Materials,66902.36
+2025-12-01,2025,12,202512,Wholesale,P&L,COGS,Shipping & Logistics,15813.28
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,IT & Software,1825.24
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,Marketing,6551.45
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,Professional Fees,1261.78
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,R&D,2213.89
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,Rent & Utilities,2813.2
+2025-12-01,2025,12,202512,Wholesale,P&L,Opex,Salaries & Benefits,22153.15
+2025-12-01,2025,12,202512,Wholesale,P&L,Revenue,Product Sales,135017.25
+2025-12-01,2025,12,202512,Wholesale,P&L,Revenue,Service Revenue,45005.75

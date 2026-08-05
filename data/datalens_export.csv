@@ -1,0 +1,433 @@
+Date,Metric,Value
+2023-01-01,Total Revenue,385302.45
+2023-02-01,Total Revenue,374712.91
+2023-03-01,Total Revenue,414037.92
+2023-04-01,Total Revenue,427084.73
+2023-05-01,Total Revenue,436540.52
+2023-06-01,Total Revenue,430149.78
+2023-07-01,Total Revenue,413368.6
+2023-08-01,Total Revenue,424055.87
+2023-09-01,Total Revenue,451858.98
+2023-10-01,Total Revenue,466990.09
+2023-11-01,Total Revenue,494835.59
+2023-12-01,Total Revenue,510948.54
+2024-01-01,Total Revenue,425350.7
+2024-02-01,Total Revenue,428809.76
+2024-03-01,Total Revenue,456340.66
+2024-04-01,Total Revenue,469992.76
+2024-05-01,Total Revenue,482095.69
+2024-06-01,Total Revenue,461529.04
+2024-07-01,Total Revenue,450394.84
+2024-08-01,Total Revenue,460884.58
+2024-09-01,Total Revenue,485060.11
+2024-10-01,Total Revenue,517599.83
+2024-11-01,Total Revenue,528084.09
+2024-12-01,Total Revenue,540893.82
+2025-01-01,Total Revenue,458982.93
+2025-02-01,Total Revenue,452401.1
+2025-03-01,Total Revenue,495850.52
+2025-04-01,Total Revenue,506500.33
+2025-05-01,Total Revenue,509330
+2025-06-01,Total Revenue,504287.57
+2025-07-01,Total Revenue,503382.39
+2025-08-01,Total Revenue,522667.21
+2025-09-01,Total Revenue,530219.97
+2025-10-01,Total Revenue,536018.28
+2025-11-01,Total Revenue,573283.02
+2025-12-01,Total Revenue,611627.36
+2023-01-01,Total COGS,229561.75
+2023-02-01,Total COGS,219881.03
+2023-03-01,Total COGS,245139.09
+2023-04-01,Total COGS,247528
+2023-05-01,Total COGS,254801.42
+2023-06-01,Total COGS,251357.12
+2023-07-01,Total COGS,248314.02
+2023-08-01,Total COGS,248967.67
+2023-09-01,Total COGS,268008.12
+2023-10-01,Total COGS,273514.23
+2023-11-01,Total COGS,290366.98
+2023-12-01,Total COGS,303686.69
+2024-01-01,Total COGS,254142
+2024-02-01,Total COGS,252653.86
+2024-03-01,Total COGS,267354.47
+2024-04-01,Total COGS,274804.72
+2024-05-01,Total COGS,282914.97
+2024-06-01,Total COGS,271741.12
+2024-07-01,Total COGS,266626.41
+2024-08-01,Total COGS,272498.14
+2024-09-01,Total COGS,283714.7
+2024-10-01,Total COGS,308485.54
+2024-11-01,Total COGS,306232.07
+2024-12-01,Total COGS,322466.87
+2025-01-01,Total COGS,264636.53
+2025-02-01,Total COGS,265278.03
+2025-03-01,Total COGS,293250.71
+2025-04-01,Total COGS,294611.69
+2025-05-01,Total COGS,302204.19
+2025-06-01,Total COGS,295170.22
+2025-07-01,Total COGS,297452.84
+2025-08-01,Total COGS,307921.71
+2025-09-01,Total COGS,311966.5
+2025-10-01,Total COGS,317950.68
+2025-11-01,Total COGS,339893.44
+2025-12-01,Total COGS,365406.44
+2023-01-01,Gross Profit,155740.7
+2023-02-01,Gross Profit,154831.88
+2023-03-01,Gross Profit,168898.83
+2023-04-01,Gross Profit,179556.73
+2023-05-01,Gross Profit,181739.1
+2023-06-01,Gross Profit,178792.66
+2023-07-01,Gross Profit,165054.58
+2023-08-01,Gross Profit,175088.2
+2023-09-01,Gross Profit,183850.86
+2023-10-01,Gross Profit,193475.86
+2023-11-01,Gross Profit,204468.61
+2023-12-01,Gross Profit,207261.85
+2024-01-01,Gross Profit,171208.7
+2024-02-01,Gross Profit,176155.9
+2024-03-01,Gross Profit,188986.19
+2024-04-01,Gross Profit,195188.04
+2024-05-01,Gross Profit,199180.72
+2024-06-01,Gross Profit,189787.92
+2024-07-01,Gross Profit,183768.43
+2024-08-01,Gross Profit,188386.44
+2024-09-01,Gross Profit,201345.41
+2024-10-01,Gross Profit,209114.29
+2024-11-01,Gross Profit,221852.02
+2024-12-01,Gross Profit,218426.95
+2025-01-01,Gross Profit,194346.4
+2025-02-01,Gross Profit,187123.07
+2025-03-01,Gross Profit,202599.81
+2025-04-01,Gross Profit,211888.64
+2025-05-01,Gross Profit,207125.81
+2025-06-01,Gross Profit,209117.35
+2025-07-01,Gross Profit,205929.55
+2025-08-01,Gross Profit,214745.5
+2025-09-01,Gross Profit,218253.47
+2025-10-01,Gross Profit,218067.6
+2025-11-01,Gross Profit,233389.58
+2025-12-01,Gross Profit,246220.92
+2023-01-01,Total Opex,97977.59
+2023-02-01,Total Opex,93039.54
+2023-03-01,Total Opex,96828.99
+2023-04-01,Total Opex,95623.83
+2023-05-01,Total Opex,97432.01
+2023-06-01,Total Opex,98498.53
+2023-07-01,Total Opex,95377.56
+2023-08-01,Total Opex,100742.54
+2023-09-01,Total Opex,100124.38
+2023-10-01,Total Opex,99901.63
+2023-11-01,Total Opex,104942.27
+2023-12-01,Total Opex,102756.77
+2024-01-01,Total Opex,103178.94
+2024-02-01,Total Opex,103876.24
+2024-03-01,Total Opex,104774.33
+2024-04-01,Total Opex,107426.44
+2024-05-01,Total Opex,106324.02
+2024-06-01,Total Opex,106405.98
+2024-07-01,Total Opex,110221.22
+2024-08-01,Total Opex,108691.77
+2024-09-01,Total Opex,108564.84
+2024-10-01,Total Opex,110931.32
+2024-11-01,Total Opex,113579.68
+2024-12-01,Total Opex,112709.62
+2025-01-01,Total Opex,111539.28
+2025-02-01,Total Opex,116266.07
+2025-03-01,Total Opex,112395.18
+2025-04-01,Total Opex,115473.84
+2025-05-01,Total Opex,115241.33
+2025-06-01,Total Opex,118804.31
+2025-07-01,Total Opex,117019.68
+2025-08-01,Total Opex,121120.74
+2025-09-01,Total Opex,122176.45
+2025-10-01,Total Opex,118432.69
+2025-11-01,Total Opex,123308.47
+2025-12-01,Total Opex,123075.23
+2023-01-01,EBITDA,57763.11
+2023-02-01,EBITDA,61792.34
+2023-03-01,EBITDA,72069.84
+2023-04-01,EBITDA,83932.9
+2023-05-01,EBITDA,84307.09
+2023-06-01,EBITDA,80294.13
+2023-07-01,EBITDA,69677.02
+2023-08-01,EBITDA,74345.66
+2023-09-01,EBITDA,83726.48
+2023-10-01,EBITDA,93574.23
+2023-11-01,EBITDA,99526.34
+2023-12-01,EBITDA,104505.08
+2024-01-01,EBITDA,68029.76
+2024-02-01,EBITDA,72279.66
+2024-03-01,EBITDA,84211.86
+2024-04-01,EBITDA,87761.6
+2024-05-01,EBITDA,92856.7
+2024-06-01,EBITDA,83381.94
+2024-07-01,EBITDA,73547.21
+2024-08-01,EBITDA,79694.6699999999
+2024-09-01,EBITDA,92780.57
+2024-10-01,EBITDA,98182.97
+2024-11-01,EBITDA,108272.34
+2024-12-01,EBITDA,105717.33
+2025-01-01,EBITDA,82807.12
+2025-02-01,EBITDA,70857
+2025-03-01,EBITDA,90204.63
+2025-04-01,EBITDA,96414.8
+2025-05-01,EBITDA,91884.48
+2025-06-01,EBITDA,90313.04
+2025-07-01,EBITDA,88909.8700000001
+2025-08-01,EBITDA,93624.76
+2025-09-01,EBITDA,96077.02
+2025-10-01,EBITDA,99634.91
+2025-11-01,EBITDA,110081.11
+2025-12-01,EBITDA,123145.69
+2023-01-01,EBIT,39266.81
+2023-02-01,EBIT,43564.1
+2023-03-01,EBIT,54056.72
+2023-04-01,EBIT,66259.97
+2023-05-01,EBIT,65496.66
+2023-06-01,EBIT,61574.25
+2023-07-01,EBIT,51344.89
+2023-08-01,EBIT,56132.55
+2023-09-01,EBIT,65258.58
+2023-10-01,EBIT,74812.47
+2023-11-01,EBIT,81501.66
+2023-12-01,EBIT,85567.28
+2024-01-01,EBIT,49490.44
+2024-02-01,EBIT,53754.14
+2024-03-01,EBIT,65659.53
+2024-04-01,EBIT,68932.65
+2024-05-01,EBIT,73435.05
+2024-06-01,EBIT,63910.68
+2024-07-01,EBIT,55216.89
+2024-08-01,EBIT,60206.5399999999
+2024-09-01,EBIT,73982.41
+2024-10-01,EBIT,78908.85
+2024-11-01,EBIT,88977.19
+2024-12-01,EBIT,86525.1800000001
+2025-01-01,EBIT,63722.62
+2025-02-01,EBIT,50461.06
+2025-03-01,EBIT,69887.92
+2025-04-01,EBIT,76289.64
+2025-05-01,EBIT,71911.51
+2025-06-01,EBIT,71036.23
+2025-07-01,EBIT,68448.3500000001
+2025-08-01,EBIT,74319.63
+2025-09-01,EBIT,75069.6
+2025-10-01,EBIT,79654.57
+2025-11-01,EBIT,89433.53
+2025-12-01,EBIT,102834.22
+2023-01-01,Net Income,27047.23
+2023-02-01,Net Income,30260.26
+2023-03-01,Net Income,38856.1
+2023-04-01,Net Income,48817.05
+2023-05-01,Net Income,48167.13
+2023-06-01,Net Income,44490.15
+2023-07-01,Net Income,37871.05
+2023-08-01,Net Income,41117.23
+2023-09-01,Net Income,48165.91
+2023-10-01,Net Income,56803.28
+2023-11-01,Net Income,61714.76
+2023-12-01,Net Income,62368.82
+2024-01-01,Net Income,34649.63
+2024-02-01,Net Income,38833.67
+2024-03-01,Net Income,47936.38
+2024-04-01,Net Income,49029.52
+2024-05-01,Net Income,56132.74
+2024-06-01,Net Income,46616.12
+2024-07-01,Net Income,39336.98
+2024-08-01,Net Income,45081.5599999999
+2024-09-01,Net Income,55430.93
+2024-10-01,Net Income,57096.75
+2024-11-01,Net Income,64785.52
+2024-12-01,Net Income,64696.7800000001
+2025-01-01,Net Income,45964.87
+2025-02-01,Net Income,36274.71
+2025-03-01,Net Income,51211.42
+2025-04-01,Net Income,53766.88
+2025-05-01,Net Income,50125.23
+2025-06-01,Net Income,50573.04
+2025-07-01,Net Income,48532.0200000001
+2025-08-01,Net Income,54173.2999999999
+2025-09-01,Net Income,54675.57
+2025-10-01,Net Income,58688.06
+2025-11-01,Net Income,66540.39
+2025-12-01,Net Income,74906.73
+2023-01-01,Net Cash from Operating Activities,34913.28
+2023-02-01,Net Cash from Operating Activities,33417.09
+2023-03-01,Net Cash from Operating Activities,38583.78
+2023-04-01,Net Cash from Operating Activities,50837.17
+2023-05-01,Net Cash from Operating Activities,47739.05
+2023-06-01,Net Cash from Operating Activities,46654.13
+2023-07-01,Net Cash from Operating Activities,38035.09
+2023-08-01,Net Cash from Operating Activities,45650.89
+2023-09-01,Net Cash from Operating Activities,47871.5
+2023-10-01,Net Cash from Operating Activities,53891.99
+2023-11-01,Net Cash from Operating Activities,62953.43
+2023-12-01,Net Cash from Operating Activities,61817.09
+2024-01-01,Net Cash from Operating Activities,39471.79
+2024-02-01,Net Cash from Operating Activities,37421.92
+2024-03-01,Net Cash from Operating Activities,52176.57
+2024-04-01,Net Cash from Operating Activities,50918.53
+2024-05-01,Net Cash from Operating Activities,57397.08
+2024-06-01,Net Cash from Operating Activities,51278.67
+2024-07-01,Net Cash from Operating Activities,42970.48
+2024-08-01,Net Cash from Operating Activities,52748.1099999999
+2024-09-01,Net Cash from Operating Activities,50590.56
+2024-10-01,Net Cash from Operating Activities,61386.97
+2024-11-01,Net Cash from Operating Activities,64104
+2024-12-01,Net Cash from Operating Activities,52311.5600000001
+2025-01-01,Net Cash from Operating Activities,51242.36
+2025-02-01,Net Cash from Operating Activities,41259.77
+2025-03-01,Net Cash from Operating Activities,60699.6
+2025-04-01,Net Cash from Operating Activities,50313.08
+2025-05-01,Net Cash from Operating Activities,59720.82
+2025-06-01,Net Cash from Operating Activities,50124.57
+2025-07-01,Net Cash from Operating Activities,49104.0500000001
+2025-08-01,Net Cash from Operating Activities,54360.5499999999
+2025-09-01,Net Cash from Operating Activities,58906.02
+2025-10-01,Net Cash from Operating Activities,58311.73
+2025-11-01,Net Cash from Operating Activities,60201.67
+2025-12-01,Net Cash from Operating Activities,64495.58
+2023-01-01,Net Cash from Investing Activities,-27192.69
+2023-02-01,Net Cash from Investing Activities,-20376.75
+2023-03-01,Net Cash from Investing Activities,-24936.25
+2023-04-01,Net Cash from Investing Activities,-33206.66
+2023-05-01,Net Cash from Investing Activities,-32748.2
+2023-06-01,Net Cash from Investing Activities,-32309.26
+2023-07-01,Net Cash from Investing Activities,-26545.75
+2023-08-01,Net Cash from Investing Activities,-26075.11
+2023-09-01,Net Cash from Investing Activities,-28357.44
+2023-10-01,Net Cash from Investing Activities,-32740.84
+2023-11-01,Net Cash from Investing Activities,-32055.24
+2023-12-01,Net Cash from Investing Activities,-31763.32
+2024-01-01,Net Cash from Investing Activities,-26413.09
+2024-02-01,Net Cash from Investing Activities,-30656.8
+2024-03-01,Net Cash from Investing Activities,-36863.99
+2024-04-01,Net Cash from Investing Activities,-34785.58
+2024-05-01,Net Cash from Investing Activities,-34212.79
+2024-06-01,Net Cash from Investing Activities,-34490.87
+2024-07-01,Net Cash from Investing Activities,-27575.99
+2024-08-01,Net Cash from Investing Activities,-29254.53
+2024-09-01,Net Cash from Investing Activities,-36883.74
+2024-10-01,Net Cash from Investing Activities,-29909.98
+2024-11-01,Net Cash from Investing Activities,-42221.33
+2024-12-01,Net Cash from Investing Activities,-32787.29
+2025-01-01,Net Cash from Investing Activities,-27355.43
+2025-02-01,Net Cash from Investing Activities,-32675.77
+2025-03-01,Net Cash from Investing Activities,-43327.19
+2025-04-01,Net Cash from Investing Activities,-40860.33
+2025-05-01,Net Cash from Investing Activities,-30534.74
+2025-06-01,Net Cash from Investing Activities,-33539.38
+2025-07-01,Net Cash from Investing Activities,-38539.21
+2025-08-01,Net Cash from Investing Activities,-29512.26
+2025-09-01,Net Cash from Investing Activities,-33765.14
+2025-10-01,Net Cash from Investing Activities,-37590.11
+2025-11-01,Net Cash from Investing Activities,-40674.47
+2025-12-01,Net Cash from Investing Activities,-38602.64
+2023-01-01,Net Cash from Financing Activities,-9000
+2023-02-01,Net Cash from Financing Activities,-8910
+2023-03-01,Net Cash from Financing Activities,-17563.52
+2023-04-01,Net Cash from Financing Activities,-8732.69
+2023-05-01,Net Cash from Financing Activities,-8645.36
+2023-06-01,Net Cash from Financing Activities,-18569.2
+2023-07-01,Net Cash from Financing Activities,-8473.32
+2023-08-01,Net Cash from Financing Activities,-8388.59
+2023-09-01,Net Cash from Financing Activities,130857.97
+2023-10-01,Net Cash from Financing Activities,-9721.66
+2023-11-01,Net Cash from Financing Activities,-9624.44
+2023-12-01,Net Cash from Financing Activities,-23561.17
+2024-01-01,Net Cash from Financing Activities,-9432.91
+2024-02-01,Net Cash from Financing Activities,-9338.58
+2024-03-01,Net Cash from Financing Activities,129969.11
+2024-04-01,Net Cash from Financing Activities,-10652.75
+2024-05-01,Net Cash from Financing Activities,-10546.22
+2024-06-01,Net Cash from Financing Activities,-20929.39
+2024-07-01,Net Cash from Financing Activities,-10336.35
+2024-08-01,Net Cash from Financing Activities,-10232.98
+2024-09-01,Net Cash from Financing Activities,127397.39
+2024-10-01,Net Cash from Financing Activities,-11529.35
+2024-11-01,Net Cash from Financing Activities,-11414.05
+2024-12-01,Net Cash from Financing Activities,-25856.69
+2025-01-01,Net Cash from Financing Activities,-11186.92
+2025-02-01,Net Cash from Financing Activities,-11075.05
+2025-03-01,Net Cash from Financing Activities,127513.13
+2025-04-01,Net Cash from Financing Activities,-12354.65
+2025-05-01,Net Cash from Financing Activities,-12231.11
+2025-06-01,Net Cash from Financing Activities,-23487.73
+2025-07-01,Net Cash from Financing Activities,-11987.71
+2025-08-01,Net Cash from Financing Activities,-11867.83
+2025-09-01,Net Cash from Financing Activities,125948.85
+2025-10-01,Net Cash from Financing Activities,-13131.66
+2025-11-01,Net Cash from Financing Activities,-13000.34
+2025-12-01,Net Cash from Financing Activities,-29724.36
+2023-01-01,Net Change in Cash,-1279.40999999999
+2023-02-01,Net Change in Cash,4130.33999999997
+2023-03-01,Net Change in Cash,-3915.99000000002
+2023-04-01,Net Change in Cash,8897.81999999997
+2023-05-01,Net Change in Cash,6345.49000000001
+2023-06-01,Net Change in Cash,-4224.33000000003
+2023-07-01,Net Change in Cash,3016.01999999998
+2023-08-01,Net Change in Cash,11187.19
+2023-09-01,Net Change in Cash,150372.03
+2023-10-01,Net Change in Cash,11429.49
+2023-11-01,Net Change in Cash,21273.75
+2023-12-01,Net Change in Cash,6492.60000000004
+2024-01-01,Net Change in Cash,3625.79000000001
+2024-02-01,Net Change in Cash,-2573.45999999999
+2024-03-01,Net Change in Cash,145281.69
+2024-04-01,Net Change in Cash,5480.20000000004
+2024-05-01,Net Change in Cash,12638.07
+2024-06-01,Net Change in Cash,-4141.59000000001
+2024-07-01,Net Change in Cash,5058.14
+2024-08-01,Net Change in Cash,13260.5999999999
+2024-09-01,Net Change in Cash,141104.21
+2024-10-01,Net Change in Cash,19947.64
+2024-11-01,Net Change in Cash,10468.62
+2024-12-01,Net Change in Cash,-6332.41999999992
+2025-01-01,Net Change in Cash,12700.01
+2025-02-01,Net Change in Cash,-2491.05
+2025-03-01,Net Change in Cash,144885.54
+2025-04-01,Net Change in Cash,-2901.89999999999
+2025-05-01,Net Change in Cash,16954.97
+2025-06-01,Net Change in Cash,-6902.53999999997
+2025-07-01,Net Change in Cash,-1422.86999999995
+2025-08-01,Net Change in Cash,12980.4599999999
+2025-09-01,Net Change in Cash,151089.73
+2025-10-01,Net Change in Cash,7589.96000000004
+2025-11-01,Net Change in Cash,6526.86000000002
+2025-12-01,Net Change in Cash,-3831.42000000001
+2023-01-01,Ending Cash Balance,248720.59
+2023-02-01,Ending Cash Balance,252850.93
+2023-03-01,Ending Cash Balance,248934.94
+2023-04-01,Ending Cash Balance,257832.76
+2023-05-01,Ending Cash Balance,264178.25
+2023-06-01,Ending Cash Balance,259953.92
+2023-07-01,Ending Cash Balance,262969.94
+2023-08-01,Ending Cash Balance,274157.13
+2023-09-01,Ending Cash Balance,424529.16
+2023-10-01,Ending Cash Balance,435958.65
+2023-11-01,Ending Cash Balance,457232.4
+2023-12-01,Ending Cash Balance,463725
+2024-01-01,Ending Cash Balance,467350.79
+2024-02-01,Ending Cash Balance,464777.33
+2024-03-01,Ending Cash Balance,610059.02
+2024-04-01,Ending Cash Balance,615539.22
+2024-05-01,Ending Cash Balance,628177.29
+2024-06-01,Ending Cash Balance,624035.7
+2024-07-01,Ending Cash Balance,629093.84
+2024-08-01,Ending Cash Balance,642354.44
+2024-09-01,Ending Cash Balance,783458.65
+2024-10-01,Ending Cash Balance,803406.29
+2024-11-01,Ending Cash Balance,813874.91
+2024-12-01,Ending Cash Balance,807542.49
+2025-01-01,Ending Cash Balance,820242.5
+2025-02-01,Ending Cash Balance,817751.45
+2025-03-01,Ending Cash Balance,962636.99
+2025-04-01,Ending Cash Balance,959735.09
+2025-05-01,Ending Cash Balance,976690.06
+2025-06-01,Ending Cash Balance,969787.52
+2025-07-01,Ending Cash Balance,968364.65
+2025-08-01,Ending Cash Balance,981345.11
+2025-09-01,Ending Cash Balance,1132434.84
+2025-10-01,Ending Cash Balance,1140024.8
+2025-11-01,Ending Cash Balance,1146551.66
+2025-12-01,Ending Cash Balance,1142720.24
