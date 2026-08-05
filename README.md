@@ -2,7 +2,7 @@
 
 Сквозной пайплайн финансовой аналитики: от сырых данных и формул в Excel до интерактивного дашборда в Yandex DataLens.
 
-**🔗 Live-дашборд:** [Открыть в DataLens](ССЫЛКА_НА_ПУБЛИЧНЫЙ_ДАШБОРД_СЮДА)
+**🔗 Live-дашборд:** https://datalens.yandex/pi8m6rbxswks8
 
 ![Dashboard](screenshots/dashboard_full.png)
 
